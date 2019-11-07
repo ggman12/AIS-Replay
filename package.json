@@ -1,0 +1,16 @@
+{
+  "name": "display-historical-marine-traffic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Filter Minute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonah Goode",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.1",
+    "csv-writer": "^1.5.0",
+    "gpx-builder": "^2.2.0"
+  }
+}
