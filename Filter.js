@@ -107,15 +107,9 @@ const csvWriter = createCsvWriter({
     let split = BTime.split("27T03:");
     let minute = split[1].split(":")[0]
     if(BTime == "2016-09-27T03:38:00"){
-      
       return true;
-
     }else if(minute >=  08 && minute < 38){
-      
         return true;
-        
-  
-
     }
   }
   function filterLocation(row) {

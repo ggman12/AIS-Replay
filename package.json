@@ -2,7 +2,7 @@
   "name": "display-historical-marine-traffic",
   "version": "1.0.0",
   "description": "",
-  "main": "Filter Minute.js",
+  "main": "Filter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
