@@ -14,18 +14,18 @@ function readCSV() {
     .on('data', (row) => {
       console.log(row)
       countRows()
-      
+
       let date = filterDate(row)
-      
-      
-      if(date!= undefined){
-        if(filterHour(row, date) == true){
-          if(filterLocation(row)==true){
+
+
+      if (date != undefined) {
+        if (filterHour(row, date) == true) {
+          if (filterLocation(row) == true) {
             Ships.push(row)
           }
         }
-      
-      
+
+
       }
       console.log(count)
 
@@ -150,7 +150,7 @@ function countRows() {
 function filterDate(row) {
   if (row.BaseDateTime.includes("2016-01-01")) {
     return 1;
-  } else if(row.BaseDateTime.includes("2016-01-02")){ // Data is in GMT and Oahu, Hawaii is on HST January 1st HST includes January 2nd GMT
+  } else if (row.BaseDateTime.includes("2016-01-02")) { // Data is in GMT and Oahu, Hawaii is on HST January 1st HST includes January 2nd GMT
     return 2;
   }
 
@@ -169,34 +169,25 @@ function filterMinute(row) {
 
 function filterLocation(row) {
   if (row.LAT.includes("21.")) {
-    if (row.LON.includes("-157.")||row.LON.includes("-158.")) {
-
+    if (row.LON.includes("-157.") || row.LON.includes("-158.")) {
       return true;
     }
-
-
-
   }
 }
 
 function filterHour(row, day) {
-  // start 10 am GMT on -1
-  // end 10 am on -2
-  // >=10 am on 1st
-  // <=10 am on second
   let BTime = row.BaseDateTime
-  let split = BTime.split("0"+ day+"T");
+  let split = BTime.split("0" + day + "T");
   let hours = split[1].split(":")[0]
-  let hoursNum = parseInt(hours,10);
-  if(day ==1){ // if it's january 1st gmt
-    if(hoursNum>=10){
+  let hoursNum = parseInt(hours, 10);
+  if (day == 1) { // if it's january 1st gmt
+    if (hoursNum >= 10) {
       return true;
     }
-    
-  } else if(day ==2){ // if it's january 2nd gmt
-    if(hoursNum<10){
+  } else if (day == 2) { // if it's january 2nd gmt
+    if (hoursNum < 10) {
       return true;
-    } 
+    }
   }
-  
+
 }

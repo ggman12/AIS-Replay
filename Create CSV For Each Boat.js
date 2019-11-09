@@ -24,7 +24,7 @@ class Boats {
   readCSV();
 
   function readCSV() {
-    var readStream = fs.createReadStream('AIS_2016_09_Zone10 -- filtered.csv', {
+    var readStream = fs.createReadStream('AIS_2016_01_Zone04 Filtered.csv', {
         start: 0
       }).pipe(csv())
       .on('data', (row) => {

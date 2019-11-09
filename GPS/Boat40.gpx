@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="fabulator:gpx-builder" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <trk>
+    <trkseg>
+      <trkpt lat="21.31679" lon="-157.87815">
+        <time>2016-01-01T15:34:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87807">
+        <time>2016-01-01T15:40:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87814">
+        <time>2016-01-01T15:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31669" lon="-157.87809">
+        <time>2016-01-01T15:37:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31664" lon="-157.87805">
+        <time>2016-01-01T15:49:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87821">
+        <time>2016-01-01T15:16:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87817">
+        <time>2016-01-01T15:19:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31686" lon="-157.878">
+        <time>2016-01-01T15:46:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31665" lon="-157.87807">
+        <time>2016-01-01T15:52:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31659" lon="-157.87804">
+        <time>2016-01-01T15:58:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87805">
+        <time>2016-01-01T15:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31665" lon="-157.87806">
+        <time>2016-01-01T15:43:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31668" lon="-157.87818">
+        <time>2016-01-01T16:07:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31671" lon="-157.87818">
+        <time>2016-01-01T16:10:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87808">
+        <time>2016-01-01T15:25:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87809">
+        <time>2016-01-01T15:10:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31659" lon="-157.87802">
+        <time>2016-01-01T16:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87806">
+        <time>2016-01-01T15:04:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31663" lon="-157.8781">
+        <time>2016-01-01T16:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31725" lon="-157.87881">
+        <time>2016-01-01T16:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87816">
+        <time>2016-01-01T15:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31662" lon="-157.87806">
+        <time>2016-01-01T15:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.87823">
+        <time>2016-01-01T16:16:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.317" lon="-157.87844">
+        <time>2016-01-01T16:19:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3169" lon="-157.87831">
+        <time>2016-01-01T16:43:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.8782">
+        <time>2016-01-01T17:04:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.8781">
+        <time>2016-01-01T17:16:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31708" lon="-157.8786">
+        <time>2016-01-01T16:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87821">
+        <time>2016-01-01T16:55:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87819">
+        <time>2016-01-01T17:31:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87822">
+        <time>2016-01-01T17:40:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87819">
+        <time>2016-01-01T17:46:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87807">
+        <time>2016-01-01T16:13:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31697" lon="-157.87844">
+        <time>2016-01-01T16:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87817">
+        <time>2016-01-01T16:40:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.8782">
+        <time>2016-01-01T17:34:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31692" lon="-157.87851">
+        <time>2016-01-01T16:49:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87822">
+        <time>2016-01-01T16:58:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87804">
+        <time>2016-01-01T17:19:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87821">
+        <time>2016-01-01T17:43:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87822">
+        <time>2016-01-01T17:52:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87804">
+        <time>2016-01-01T18:01:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87817">
+        <time>2016-01-01T18:10:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87817">
+        <time>2016-01-01T17:10:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87811">
+        <time>2016-01-01T17:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31669" lon="-157.87812">
+        <time>2016-01-01T18:16:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87812">
+        <time>2016-01-01T18:37:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31692" lon="-157.87837">
+        <time>2016-01-01T16:46:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87807">
+        <time>2016-01-01T17:22:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87809">
+        <time>2016-01-01T18:04:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.8781">
+        <time>2016-01-01T18:40:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31671" lon="-157.87826">
+        <time>2016-01-01T17:37:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87822">
+        <time>2016-01-01T17:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31669" lon="-157.87788">
+        <time>2016-01-01T19:13:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.8782">
+        <time>2016-01-01T17:55:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87808">
+        <time>2016-01-01T18:19:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.8781">
+        <time>2016-01-01T18:31:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87812">
+        <time>2016-01-01T18:49:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87809">
+        <time>2016-01-01T18:58:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.878">
+        <time>2016-01-01T19:04:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31658" lon="-157.87787">
+        <time>2016-01-01T19:07:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87819">
+        <time>2016-01-01T17:58:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31662" lon="-157.87799">
+        <time>2016-01-01T18:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31666" lon="-157.87769">
+        <time>2016-01-01T19:31:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87812">
+        <time>2016-01-01T18:13:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87802">
+        <time>2016-01-01T18:25:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31665" lon="-157.87803">
+        <time>2016-01-01T18:28:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87811">
+        <time>2016-01-01T18:52:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31693" lon="-157.87822">
+        <time>2016-01-01T18:46:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31671" lon="-157.87803">
+        <time>2016-01-01T19:01:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87795">
+        <time>2016-01-01T19:16:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87844">
+        <time>2016-01-01T19:58:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.8781">
+        <time>2016-01-01T18:55:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31667" lon="-157.87794">
+        <time>2016-01-01T19:10:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87806">
+        <time>2016-01-01T20:01:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87822">
+        <time>2016-01-01T20:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87822">
+        <time>2016-01-01T20:16:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31661" lon="-157.87777">
+        <time>2016-01-01T19:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87837">
+        <time>2016-01-01T19:55:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87817">
+        <time>2016-01-01T20:07:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.87854">
+        <time>2016-01-01T19:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87827">
+        <time>2016-01-01T19:52:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87811">
+        <time>2016-01-01T20:10:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87812">
+        <time>2016-01-01T20:52:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87804">
+        <time>2016-01-01T19:28:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87801">
+        <time>2016-01-01T19:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87812">
+        <time>2016-01-01T19:37:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87827">
+        <time>2016-01-01T19:40:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87825">
+        <time>2016-01-01T20:25:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.8782">
+        <time>2016-01-01T20:40:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87817">
+        <time>2016-01-01T20:19:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87816">
+        <time>2016-01-01T20:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87819">
+        <time>2016-01-01T20:37:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31687" lon="-157.87818">
+        <time>2016-01-01T20:46:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.8781">
+        <time>2016-01-01T21:01:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87802">
+        <time>2016-01-01T21:25:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87818">
+        <time>2016-01-01T20:34:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87811">
+        <time>2016-01-01T21:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87814">
+        <time>2016-01-01T20:58:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.8782">
+        <time>2016-01-01T21:31:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87815">
+        <time>2016-01-01T21:52:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87808">
+        <time>2016-01-01T21:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.8782">
+        <time>2016-01-01T20:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87813">
+        <time>2016-01-01T20:43:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87814">
+        <time>2016-01-01T21:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87819">
+        <time>2016-01-01T20:31:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87812">
+        <time>2016-01-01T21:10:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87816">
+        <time>2016-01-01T21:13:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87816">
+        <time>2016-01-01T21:16:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.8782">
+        <time>2016-01-01T21:28:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87829">
+        <time>2016-01-01T22:10:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87818">
+        <time>2016-01-01T21:19:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87812">
+        <time>2016-01-01T21:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.8783">
+        <time>2016-01-01T22:31:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.87818">
+        <time>2016-01-01T21:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87816">
+        <time>2016-01-01T21:40:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87815">
+        <time>2016-01-01T21:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87822">
+        <time>2016-01-01T22:04:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87827">
+        <time>2016-01-01T22:07:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87815">
+        <time>2016-01-01T22:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87817">
+        <time>2016-01-01T22:55:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87818">
+        <time>2016-01-01T22:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87819">
+        <time>2016-01-01T22:13:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.8782">
+        <time>2016-01-01T22:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87818">
+        <time>2016-01-01T22:34:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87812">
+        <time>2016-01-01T22:37:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87811">
+        <time>2016-01-01T21:43:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.87801">
+        <time>2016-01-01T21:58:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.8782">
+        <time>2016-01-01T22:16:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87819">
+        <time>2016-01-01T22:19:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87819">
+        <time>2016-01-01T23:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87819">
+        <time>2016-01-01T22:40:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31671" lon="-157.87797">
+        <time>2016-01-01T22:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87811">
+        <time>2016-01-01T23:43:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87813">
+        <time>2016-01-02T00:07:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87815">
+        <time>2016-01-01T22:52:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87815">
+        <time>2016-01-01T23:10:13.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87816">
+        <time>2016-01-01T23:19:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87819">
+        <time>2016-01-01T23:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.87823">
+        <time>2016-01-01T23:55:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.8781">
+        <time>2016-01-01T22:58:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87818">
+        <time>2016-01-01T23:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87821">
+        <time>2016-01-01T23:07:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87818">
+        <time>2016-01-01T23:25:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87818">
+        <time>2016-01-01T23:58:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87814">
+        <time>2016-01-02T00:13:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87818">
+        <time>2016-01-01T23:22:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87819">
+        <time>2016-01-01T23:31:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87814">
+        <time>2016-01-02T00:16:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.8781">
+        <time>2016-01-02T00:25:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87812">
+        <time>2016-01-02T00:31:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87802">
+        <time>2016-01-02T00:40:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31671" lon="-157.87803">
+        <time>2016-01-02T00:43:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87813">
+        <time>2016-01-02T00:28:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.87794">
+        <time>2016-01-02T00:37:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31667" lon="-157.87789">
+        <time>2016-01-02T00:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31669" lon="-157.87828">
+        <time>2016-01-02T01:34:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87815">
+        <time>2016-01-02T00:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87795">
+        <time>2016-01-02T00:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31658" lon="-157.87751">
+        <time>2016-01-02T01:10:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3165" lon="-157.87751">
+        <time>2016-01-02T01:13:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31658" lon="-157.87775">
+        <time>2016-01-02T01:16:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87816">
+        <time>2016-01-02T02:58:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31669" lon="-157.87809">
+        <time>2016-01-02T03:10:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87819">
+        <time>2016-01-02T02:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87809">
+        <time>2016-01-02T02:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87817">
+        <time>2016-01-02T03:31:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87815">
+        <time>2016-01-02T03:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87813">
+        <time>2016-01-02T02:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87806">
+        <time>2016-01-02T03:07:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87811">
+        <time>2016-01-02T03:16:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87813">
+        <time>2016-01-02T03:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87811">
+        <time>2016-01-02T03:37:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3169" lon="-157.87822">
+        <time>2016-01-02T04:10:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31693" lon="-157.87823">
+        <time>2016-01-02T04:16:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.8782">
+        <time>2016-01-02T03:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87814">
+        <time>2016-01-02T03:25:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.87822">
+        <time>2016-01-02T04:13:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31686" lon="-157.87812">
+        <time>2016-01-02T04:37:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.87813">
+        <time>2016-01-02T03:19:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87819">
+        <time>2016-01-02T04:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.8782">
+        <time>2016-01-02T04:25:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87815">
+        <time>2016-01-02T02:37:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87814">
+        <time>2016-01-02T02:40:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87817">
+        <time>2016-01-02T03:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87814">
+        <time>2016-01-02T03:58:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.87821">
+        <time>2016-01-02T04:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31686" lon="-157.87817">
+        <time>2016-01-02T04:40:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.8782">
+        <time>2016-01-02T04:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.87822">
+        <time>2016-01-02T05:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87811">
+        <time>2016-01-02T05:16:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31688" lon="-157.87826">
+        <time>2016-01-02T04:43:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.87817">
+        <time>2016-01-02T04:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31694" lon="-157.87866">
+        <time>2016-01-02T04:49:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.87824">
+        <time>2016-01-02T04:58:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.87809">
+        <time>2016-01-02T05:40:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31671" lon="-157.87816">
+        <time>2016-01-02T04:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3169" lon="-157.87824">
+        <time>2016-01-02T04:07:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.87821">
+        <time>2016-01-02T05:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87807">
+        <time>2016-01-02T05:31:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.8781">
+        <time>2016-01-02T05:46:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31687" lon="-157.87832">
+        <time>2016-01-02T04:52:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.87809">
+        <time>2016-01-02T05:10:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.8781">
+        <time>2016-01-02T05:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.87807">
+        <time>2016-01-02T05:28:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.87812">
+        <time>2016-01-02T05:52:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31687" lon="-157.87812">
+        <time>2016-01-02T05:58:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.87826">
+        <time>2016-01-02T06:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31689" lon="-157.87816">
+        <time>2016-01-02T06:37:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87813">
+        <time>2016-01-02T05:25:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.87812">
+        <time>2016-01-02T05:34:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.8781">
+        <time>2016-01-02T06:58:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87811">
+        <time>2016-01-02T07:16:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31687" lon="-157.87809">
+        <time>2016-01-02T05:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.87821">
+        <time>2016-01-02T06:40:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.8783">
+        <time>2016-01-02T06:43:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31687" lon="-157.87822">
+        <time>2016-01-02T06:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87808">
+        <time>2016-01-02T07:22:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87816">
+        <time>2016-01-02T06:10:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31686" lon="-157.87822">
+        <time>2016-01-02T06:19:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31686" lon="-157.8782">
+        <time>2016-01-02T06:25:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87816">
+        <time>2016-01-02T06:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31695" lon="-157.87837">
+        <time>2016-01-02T06:46:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.8782">
+        <time>2016-01-02T07:31:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31684" lon="-157.87814">
+        <time>2016-01-02T07:04:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87809">
+        <time>2016-01-02T07:10:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87821">
+        <time>2016-01-02T07:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31686" lon="-157.87814">
+        <time>2016-01-02T05:55:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31696" lon="-157.87828">
+        <time>2016-01-02T06:49:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87818">
+        <time>2016-01-02T07:52:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87809">
+        <time>2016-01-02T07:19:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87817">
+        <time>2016-01-02T07:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87816">
+        <time>2016-01-02T07:55:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87815">
+        <time>2016-01-02T08:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87824">
+        <time>2016-01-02T07:46:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87814">
+        <time>2016-01-02T08:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87815">
+        <time>2016-01-02T08:43:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.8782">
+        <time>2016-01-02T07:43:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87811">
+        <time>2016-01-02T08:25:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87809">
+        <time>2016-01-02T08:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87814">
+        <time>2016-01-02T08:52:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87809">
+        <time>2016-01-02T08:07:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87817">
+        <time>2016-01-02T08:13:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87817">
+        <time>2016-01-02T09:16:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87821">
+        <time>2016-01-02T09:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87812">
+        <time>2016-01-02T09:43:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87807">
+        <time>2016-01-02T08:37:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87814">
+        <time>2016-01-02T09:10:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87808">
+        <time>2016-01-02T09:28:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87815">
+        <time>2016-01-02T09:31:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87813">
+        <time>2016-01-02T09:55:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87815">
+        <time>2016-01-02T09:19:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.8782">
+        <time>2016-01-02T09:37:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.8781">
+        <time>2016-01-02T09:40:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87814">
+        <time>2016-01-02T09:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.8782">
+        <time>2016-01-02T10:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87814">
+        <time>2016-01-02T10:10:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.8782">
+        <time>2016-01-02T10:31:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87812">
+        <time>2016-01-02T11:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87817">
+        <time>2016-01-02T09:01:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87821">
+        <time>2016-01-02T09:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87811">
+        <time>2016-01-02T10:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31669" lon="-157.87814">
+        <time>2016-01-02T10:07:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31688" lon="-157.87829">
+        <time>2016-01-02T10:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87822">
+        <time>2016-01-02T10:40:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87811">
+        <time>2016-01-02T09:49:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87814">
+        <time>2016-01-02T10:52:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.8782">
+        <time>2016-01-02T10:25:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87816">
+        <time>2016-01-02T10:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87816">
+        <time>2016-01-02T09:52:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87813">
+        <time>2016-01-02T09:58:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31667" lon="-157.87813">
+        <time>2016-01-02T10:22:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87818">
+        <time>2016-01-02T11:25:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87815">
+        <time>2016-01-02T11:28:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87799">
+        <time>2016-01-02T11:40:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.87813">
+        <time>2016-01-02T10:13:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31667" lon="-157.87815">
+        <time>2016-01-02T10:16:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31687" lon="-157.87824">
+        <time>2016-01-02T10:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31685" lon="-157.87827">
+        <time>2016-01-02T10:37:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31683" lon="-157.87821">
+        <time>2016-01-02T10:43:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87815">
+        <time>2016-01-02T10:58:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87817">
+        <time>2016-01-02T11:10:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87814">
+        <time>2016-01-02T11:13:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87818">
+        <time>2016-01-02T11:19:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87786">
+        <time>2016-01-02T11:37:14.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.878">
+        <time>2016-01-02T12:16:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.87812">
+        <time>2016-01-02T10:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87814">
+        <time>2016-01-02T11:07:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87819">
+        <time>2016-01-02T11:22:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87818">
+        <time>2016-01-02T11:34:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31679" lon="-157.878">
+        <time>2016-01-02T12:28:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87795">
+        <time>2016-01-02T12:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31681" lon="-157.87813">
+        <time>2016-01-02T12:07:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.878">
+        <time>2016-01-02T12:31:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87796">
+        <time>2016-01-02T12:34:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.8781">
+        <time>2016-01-02T12:52:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87816">
+        <time>2016-01-02T11:31:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87805">
+        <time>2016-01-02T11:58:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31682" lon="-157.87806">
+        <time>2016-01-02T12:04:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87807">
+        <time>2016-01-02T12:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87792">
+        <time>2016-01-02T11:43:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87798">
+        <time>2016-01-02T12:10:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87795">
+        <time>2016-01-02T12:49:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31668" lon="-157.87812">
+        <time>2016-01-02T13:04:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87794">
+        <time>2016-01-02T13:25:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.87787">
+        <time>2016-01-02T13:37:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31677" lon="-157.87808">
+        <time>2016-01-02T12:58:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87794">
+        <time>2016-01-02T12:46:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.87814">
+        <time>2016-01-02T13:22:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31667" lon="-157.87779">
+        <time>2016-01-02T13:40:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.8777">
+        <time>2016-01-02T13:43:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87809">
+        <time>2016-01-02T11:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87809">
+        <time>2016-01-02T11:52:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3168" lon="-157.87803">
+        <time>2016-01-02T11:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87798">
+        <time>2016-01-02T12:13:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87805">
+        <time>2016-01-02T12:43:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31678" lon="-157.87811">
+        <time>2016-01-02T13:07:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.3167" lon="-157.8778">
+        <time>2016-01-02T13:55:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31667" lon="-157.87771">
+        <time>2016-01-02T13:28:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.8781">
+        <time>2016-01-02T14:01:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.87825">
+        <time>2016-01-02T14:40:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31671" lon="-157.87815">
+        <time>2016-01-02T13:13:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31666" lon="-157.87779">
+        <time>2016-01-02T13:34:12.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87814">
+        <time>2016-01-02T14:55:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31675" lon="-157.87809">
+        <time>2016-01-02T14:10:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31673" lon="-157.87804">
+        <time>2016-01-02T14:22:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31676" lon="-157.87819">
+        <time>2016-01-02T14:49:09.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31674" lon="-157.8782">
+        <time>2016-01-02T14:13:11.000Z</time>
+        <type>car</type>
+      </trkpt>
+      <trkpt lat="21.31672" lon="-157.87824">
+        <time>2016-01-02T14:16:10.000Z</time>
+        <type>car</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
