@@ -1,35 +1,33 @@
 // 10 am utc 
 const csv = require('csv-parser')
 const fs = require('fs');
-
+var readStream
 
 var endLine = 100000000
 
 readCSV();
 
 function readCSV() {
-  var readStream = fs.createReadStream('AIS_2016_01_Zone04.csv', {
+  readStream = fs.createReadStream('HOURS.csv', {
       start: 0,
     }).pipe(csv())
     .on('data', (row) => {
       console.log(row)
       countRows()
-      Ships.push(row);
-
-      // if(filterDate(row) == true){
-
-      //   if(filterHour(row) == true){
-
-      //     if(filterMinute(row) == true){
-
-      //       if(filterLocation(row) == true){
-      //       }
-      //     }
-      //   }
-      // }
-      if (count >= 500) {
-        readStream.destroy();
+      
+      let date = filterDate(row)
+      
+      
+      if(date!= undefined){
+        if(filterHour(row, date) == true){
+          if(filterLocation(row)==true){
+            Ships.push(row)
+          }
+        }
+      
+      
       }
+      console.log(count)
 
     })
     .on('end', () => {
@@ -50,7 +48,7 @@ function readCSV() {
 
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const csvWriter = createCsvWriter({
-  path: '100rows2.csv',
+  path: 'Location.csv',
   header: [{
       id: 'MMSI',
       title: 'MMSI'
@@ -150,10 +148,12 @@ function countRows() {
 }
 
 function filterDate(row) {
-  if (row.BaseDateTime.includes("2016-09-27")) {
-
-    return true;
+  if (row.BaseDateTime.includes("2016-01-01")) {
+    return 1;
+  } else if(row.BaseDateTime.includes("2016-01-02")){ // Data is in GMT and Oahu, Hawaii is on HST January 1st HST includes January 2nd GMT
+    return 2;
   }
+
 }
 
 function filterMinute(row) {
@@ -168,8 +168,8 @@ function filterMinute(row) {
 }
 
 function filterLocation(row) {
-  if (row.LAT.includes("48.")) {
-    if (row.LON.includes("-123.")) {
+  if (row.LAT.includes("21.")) {
+    if (row.LON.includes("-157.")||row.LON.includes("-158.")) {
 
       return true;
     }
@@ -179,10 +179,24 @@ function filterLocation(row) {
   }
 }
 
-function filterHour(row) {
-  if (row.BaseDateTime.includes("T03:")) {
-
-    return true;
-
+function filterHour(row, day) {
+  // start 10 am GMT on -1
+  // end 10 am on -2
+  // >=10 am on 1st
+  // <=10 am on second
+  let BTime = row.BaseDateTime
+  let split = BTime.split("0"+ day+"T");
+  let hours = split[1].split(":")[0]
+  let hoursNum = parseInt(hours,10);
+  if(day ==1){ // if it's january 1st gmt
+    if(hoursNum>=10){
+      return true;
+    }
+    
+  } else if(day ==2){ // if it's january 2nd gmt
+    if(hoursNum<10){
+      return true;
+    } 
   }
+  
 }
