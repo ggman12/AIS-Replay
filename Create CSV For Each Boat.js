@@ -6,7 +6,6 @@ class Boats {
   }
   addBoat(boat) {
     // The MMSI is a unique identifier for each boat
-    
     for (let i = 0; i < this.Boats.length; i++) { //checks if the row read MMSI matches a boat already in Boats array 
       const Boat = this.Boats[i];
       if (Boat[0].MMSI === boat.MMSI) {
@@ -15,7 +14,6 @@ class Boats {
       }
     }
     this.Boats.push([boat]) // else create a new boat in the Boats Array
-
   }
 }
 

@@ -8,7 +8,7 @@ module.exports = function (Boats) {
         Boat.forEach(Pos => {
             points.push(new Point(Pos.LAT, Pos.LON, {
                 time: new Date(Pos.BaseDateTime),
-                type: 'car'
+                type: 'boat'
             }))
         }); 
         let gpxData = new GarminBuilder();
