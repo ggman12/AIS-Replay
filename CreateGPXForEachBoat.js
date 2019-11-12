@@ -2,9 +2,9 @@ const csv = require('csv-parser')
 const fs = require('fs');
 class Boats {
   constructor() {
-    this.Boats = []
+    this.Boats = [] // After the CSV is read there will be 57 boats in the array
   }
-  addBoat(boat) {
+  addBoat(boat) { // addBoat gets called for every row in the filtered CSV
     // The MMSI is a unique identifier for each boat
     for (let i = 0; i < this.Boats.length; i++) { //checks if the row read MMSI matches a boat already in Boats array 
       const Boat = this.Boats[i];
@@ -34,6 +34,7 @@ class Boats {
         console.log('end of CSV');
         console.log(BoatsArray.Boats)
         let GPSData = require('./CreateGPSForEach')(BoatsArray.Boats);
+        //write the .gpx data to a .gpx file for each Boat in GPS array
         let GPScount = 0
         GPSData.forEach(Data => {
           fs.writeFileSync('./GPS/Boat'+ GPScount + '.gpx', Data)

@@ -147,7 +147,7 @@ function countRows() {
   count++;
 }
 
-function filterDate(row) {
+function filterDate(row) { 
   if (row.BaseDateTime.includes("2016-01-01")) {
     return 1;
   } else if (row.BaseDateTime.includes("2016-01-02")) { // Data is in GMT and Oahu, Hawaii is on HST January 1st HST includes January 2nd GMT
@@ -157,10 +157,10 @@ function filterDate(row) {
 }
 
 function filterMinute(row) {
-  let BTime = row.BaseDateTime
-  let split = BTime.split("27T03:");
-  let minute = split[1].split(":")[0]
-  if (BTime == "2016-01-01T03:38:00") {
+  let BTime = row.BaseDateTime 
+  let split = BTime.split("27T03:"); // split the BaseDateTime row to just the Time
+  let minute = split[1].split(":")[0] // get just the minutes string in the BaseDateTime
+  if (BTime == "2016-01-01T03:38:00") { 
     return true;
   } else if (minute >= 08 && minute < 38) {
     return true;
@@ -177,9 +177,9 @@ function filterLocation(row) {
 
 function filterHour(row, day) {
   let BTime = row.BaseDateTime
-  let split = BTime.split("0" + day + "T");
-  let hours = split[1].split(":")[0]
-  let hoursNum = parseInt(hours, 10);
+  let split = BTime.split("0" + day + "T"); // split the BaseDateTime row to just the Time
+  let hours = split[1].split(":")[0] // get just the hours string in the BaseDateTime
+  let hoursNum = parseInt(hours, 10); // convert the hours string into a number 
   if (day == 1) { // if it's january 1st gmt
     if (hoursNum >= 10) {
       return true;
@@ -189,5 +189,4 @@ function filterHour(row, day) {
       return true;
     }
   }
-
 }
