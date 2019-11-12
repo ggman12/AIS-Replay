@@ -5,7 +5,7 @@ var GPS = []
 module.exports = function (Boats) {
     Boats.forEach(Boat => {
         let points = [];
-        Boat.forEach(Pos => {
+        Boat.rows.forEach(Pos => {
             points.push(new Point(Pos.LAT, Pos.LON, {
                 time: new Date(Pos.BaseDateTime),
                 type: 'boat'
@@ -13,8 +13,8 @@ module.exports = function (Boats) {
         }); 
         let gpxData = new GarminBuilder();
         gpxData.setSegmentPoints(points)
-        GPS.push(buildGPX(gpxData.toObject()))
+      
+        Boat.gpxData = buildGPX(gpxData.toObject())
     });
     
-    return GPS;
 }

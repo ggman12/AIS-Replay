@@ -4,19 +4,25 @@ class Boats {
   constructor() {
     this.Boats = [] // After the CSV is read there will be 57 boats in the array
   }
-  addBoat(boat) { // addBoat gets called for every row in the filtered CSV
+  addBoat(row) { // addBoat gets called for every row in the filtered CSV
     // The MMSI is a unique identifier for each boat
     for (let i = 0; i < this.Boats.length; i++) { //checks if the row read MMSI matches a boat already in Boats array 
       const Boat = this.Boats[i];
-      if (Boat[0].MMSI === boat.MMSI) {
-        Boat.push(boat)
+      if (Boat.MMSI === row.MMSI) {
+        Boat.rows.push(row)
         return;
       }
     }
-    this.Boats.push([boat]) // else create a new boat in the Boats Array
+    this.Boats.push(new Boat(row)) // else create a new boat in the Boats Array
   }
 }
-
+class Boat{
+  constructor(row){
+    this.MMSI = row.MMSI
+    this.length = row.Length
+    this.rows = [row]
+  }
+}
 
   var BoatsArray = new Boats();
 
@@ -34,15 +40,15 @@ class Boats {
       .on('end', () => {
         console.log('end of CSV');
         console.log(BoatsArray.Boats)
-        let GPSData = require('./GPXCreator')(BoatsArray.Boats);
+        require('./GPXCreator')(BoatsArray.Boats);
         //write the .gpx data to a .gpx file for each Boat in GPS array
         let GPScount = 0
-        for (let i = 0; i < GPSData.length; i++) {
-          const gpx = GPSData[i];
-          fs.writeFileSync('./GPS/Named/Boat'+ BoatsArray.Boats[i][0].MMSI + '.gpx', gpx)
+        BoatsArray.Boats.forEach(Boat => {
+          const gpx = Boat.gpxData;
+          fs.writeFileSync('./GPS/Test/Boat'+ GPScount + '.gpx', gpx)
           GPScount++;
-          
-        }
+        });
+       
         
       
       })
