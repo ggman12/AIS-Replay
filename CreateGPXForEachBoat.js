@@ -17,6 +17,7 @@ class Boats {
   }
 }
 
+
   var BoatsArray = new Boats();
 
   readCSV();
@@ -33,13 +34,16 @@ class Boats {
       .on('end', () => {
         console.log('end of CSV');
         console.log(BoatsArray.Boats)
-        let GPSData = require('./CreateGPSForEach')(BoatsArray.Boats);
+        let GPSData = require('./GPXCreator')(BoatsArray.Boats);
         //write the .gpx data to a .gpx file for each Boat in GPS array
         let GPScount = 0
-        GPSData.forEach(Data => {
-          fs.writeFileSync('./GPS/Boat'+ GPScount + '.gpx', Data)
+        for (let i = 0; i < GPSData.length; i++) {
+          const gpx = GPSData[i];
+          fs.writeFileSync('./GPS/Named/Boat'+ BoatsArray.Boats[i][0].MMSI + '.gpx', gpx)
           GPScount++;
-        });
+          
+        }
+        
       
       })
       .on('close', () => {

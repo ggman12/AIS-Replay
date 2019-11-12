@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Create CSV For Each Boat.js"
+            "program": "${workspaceFolder}\\CreateGPXForEachBoat.js"
         }
     ]
 }

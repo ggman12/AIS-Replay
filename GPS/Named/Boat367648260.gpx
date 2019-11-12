@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="fabulator:gpx-builder" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <trk>
+    <trkseg>
+      <trkpt lat="21.08287" lon="-157.02905">
+        <time>2016-01-01T15:35:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.0292">
+        <time>2016-01-01T15:53:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02899">
+        <time>2016-01-01T15:20:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02897">
+        <time>2016-01-01T15:32:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02911">
+        <time>2016-01-01T15:44:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02913">
+        <time>2016-01-01T15:47:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02897">
+        <time>2016-01-01T15:14:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08291" lon="-157.02917">
+        <time>2016-01-01T15:59:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02913">
+        <time>2016-01-01T16:08:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02907">
+        <time>2016-01-01T16:11:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02892">
+        <time>2016-01-01T15:05:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02893">
+        <time>2016-01-01T15:08:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02892">
+        <time>2016-01-01T15:11:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02897">
+        <time>2016-01-01T15:26:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02897">
+        <time>2016-01-01T15:29:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02915">
+        <time>2016-01-01T16:02:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02912">
+        <time>2016-01-01T16:05:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02899">
+        <time>2016-01-01T15:23:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02907">
+        <time>2016-01-01T15:38:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08293" lon="-157.02889">
+        <time>2016-01-01T16:22:43.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02899">
+        <time>2016-01-01T14:53:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02908">
+        <time>2016-01-01T15:41:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.0292">
+        <time>2016-01-01T15:56:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08289" lon="-157.02893">
+        <time>2016-01-01T16:17:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.029">
+        <time>2016-01-01T17:08:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02903">
+        <time>2016-01-01T16:14:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02897">
+        <time>2016-01-01T16:53:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0829" lon="-157.02893">
+        <time>2016-01-01T17:02:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02897">
+        <time>2016-01-01T17:05:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.02889">
+        <time>2016-01-01T16:32:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08288" lon="-157.02899">
+        <time>2016-01-01T16:56:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08288" lon="-157.02896">
+        <time>2016-01-01T17:11:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0829" lon="-157.02891">
+        <time>2016-01-01T16:26:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08289" lon="-157.02896">
+        <time>2016-01-01T16:38:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08288" lon="-157.02896">
+        <time>2016-01-01T16:47:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08294" lon="-157.02888">
+        <time>2016-01-01T17:20:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.02891">
+        <time>2016-01-01T17:23:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02893">
+        <time>2016-01-01T17:50:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02903">
+        <time>2016-01-01T18:02:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02896">
+        <time>2016-01-01T16:20:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.02889">
+        <time>2016-01-01T16:29:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08293" lon="-157.02889">
+        <time>2016-01-01T16:35:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02893">
+        <time>2016-01-01T17:26:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02899">
+        <time>2016-01-01T18:35:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02897">
+        <time>2016-01-01T18:44:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.029">
+        <time>2016-01-01T17:59:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08283" lon="-157.02899">
+        <time>2016-01-01T18:32:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02899">
+        <time>2016-01-01T18:56:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08288" lon="-157.02907">
+        <time>2016-01-01T17:32:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02896">
+        <time>2016-01-01T17:47:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02897">
+        <time>2016-01-01T17:56:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02903">
+        <time>2016-01-01T18:20:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.029">
+        <time>2016-01-01T18:08:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02903">
+        <time>2016-01-01T18:22:44.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02904">
+        <time>2016-01-01T19:08:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02896">
+        <time>2016-01-01T17:44:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.029">
+        <time>2016-01-01T18:05:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02897">
+        <time>2016-01-01T18:14:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02903">
+        <time>2016-01-01T19:11:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02896">
+        <time>2016-01-01T19:17:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02896">
+        <time>2016-01-01T18:17:25.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02899">
+        <time>2016-01-01T18:41:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02912">
+        <time>2016-01-01T19:44:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02899">
+        <time>2016-01-01T18:11:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02903">
+        <time>2016-01-01T19:50:28.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.029">
+        <time>2016-01-01T19:26:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02904">
+        <time>2016-01-01T18:59:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02904">
+        <time>2016-01-01T19:02:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02904">
+        <time>2016-01-01T20:11:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02904">
+        <time>2016-01-01T20:20:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02897">
+        <time>2016-01-01T20:26:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02897">
+        <time>2016-01-01T19:05:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02903">
+        <time>2016-01-01T19:29:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08283" lon="-157.02904">
+        <time>2016-01-01T19:32:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02907">
+        <time>2016-01-01T19:35:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02904">
+        <time>2016-01-01T19:59:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02899">
+        <time>2016-01-01T19:14:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02897">
+        <time>2016-01-01T19:20:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08289" lon="-157.02913">
+        <time>2016-01-01T20:17:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08284" lon="-157.02904">
+        <time>2016-01-01T19:47:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02911">
+        <time>2016-01-01T20:32:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02915">
+        <time>2016-01-01T20:38:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08288" lon="-157.02908">
+        <time>2016-01-01T20:05:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02911">
+        <time>2016-01-01T20:35:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08288" lon="-157.02912">
+        <time>2016-01-01T20:14:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02913">
+        <time>2016-01-01T20:47:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02905">
+        <time>2016-01-01T21:20:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08288" lon="-157.02893">
+        <time>2016-01-01T21:47:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.029">
+        <time>2016-01-01T22:05:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02911">
+        <time>2016-01-01T21:05:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02899">
+        <time>2016-01-01T21:59:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02908">
+        <time>2016-01-01T22:11:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02908">
+        <time>2016-01-01T20:44:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02907">
+        <time>2016-01-01T21:08:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02905">
+        <time>2016-01-01T21:11:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08293" lon="-157.02892">
+        <time>2016-01-01T21:41:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0829" lon="-157.02892">
+        <time>2016-01-01T21:44:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02903">
+        <time>2016-01-01T22:23:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08298" lon="-157.02892">
+        <time>2016-01-01T21:32:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02912">
+        <time>2016-01-01T22:17:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08289" lon="-157.02899">
+        <time>2016-01-01T22:26:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.02891">
+        <time>2016-01-01T22:41:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02905">
+        <time>2016-01-01T21:26:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08291" lon="-157.02892">
+        <time>2016-01-01T21:38:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08299" lon="-157.02889">
+        <time>2016-01-01T23:08:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08285" lon="-157.02907">
+        <time>2016-01-01T21:53:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08287" lon="-157.02911">
+        <time>2016-01-01T22:14:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08286" lon="-157.02903">
+        <time>2016-01-01T22:08:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.02897">
+        <time>2016-01-01T23:20:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08007" lon="-157.03023">
+        <time>2016-01-01T23:35:16.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08304" lon="-157.02893">
+        <time>2016-01-01T22:50:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08306" lon="-157.02892">
+        <time>2016-01-01T22:53:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08295" lon="-157.02888">
+        <time>2016-01-01T23:14:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08294" lon="-157.02893">
+        <time>2016-01-01T23:17:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06584" lon="-157.04853">
+        <time>2016-01-01T23:52:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06189" lon="-157.06005">
+        <time>2016-01-01T23:58:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08293" lon="-157.02891">
+        <time>2016-01-01T22:38:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08293" lon="-157.02892">
+        <time>2016-01-01T22:44:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08292" lon="-157.02892">
+        <time>2016-01-01T22:59:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08317" lon="-157.02896">
+        <time>2016-01-01T23:23:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08299" lon="-157.02893">
+        <time>2016-01-01T22:56:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07745" lon="-157.03187">
+        <time>2016-01-01T23:38:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05922" lon="-157.06805">
+        <time>2016-01-02T00:03:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07903" lon="-157.03085">
+        <time>2016-01-01T23:36:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06932" lon="-157.03884">
+        <time>2016-01-01T23:46:16.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06865" lon="-157.04056">
+        <time>2016-01-01T23:47:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0604" lon="-157.06448">
+        <time>2016-01-02T00:01:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05487" lon="-157.08257">
+        <time>2016-01-02T00:10:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04591" lon="-157.11457">
+        <time>2016-01-02T00:26:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05859" lon="-157.06999">
+        <time>2016-01-02T00:04:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04535" lon="-157.11667">
+        <time>2016-01-02T00:27:38.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03982" lon="-157.137">
+        <time>2016-01-02T00:37:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03926" lon="-157.13908">
+        <time>2016-01-02T00:38:38.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03815" lon="-157.14299">
+        <time>2016-01-02T00:40:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03488" lon="-157.15485">
+        <time>2016-01-02T00:46:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0716" lon="-157.03497">
+        <time>2016-01-01T23:43:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06771" lon="-157.04321">
+        <time>2016-01-01T23:49:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06675" lon="-157.04595">
+        <time>2016-01-01T23:50:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06521" lon="-157.05037">
+        <time>2016-01-01T23:53:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06367" lon="-157.0548">
+        <time>2016-01-01T23:55:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05773" lon="-157.07279">
+        <time>2016-01-02T00:05:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05686" lon="-157.07564">
+        <time>2016-01-02T00:07:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0437" lon="-157.12265">
+        <time>2016-01-02T00:30:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03566" lon="-157.15185">
+        <time>2016-01-02T00:45:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02981" lon="-157.17509">
+        <time>2016-01-02T00:56:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06247" lon="-157.05832">
+        <time>2016-01-01T23:57:18.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06099" lon="-157.06275">
+        <time>2016-01-02T00:00:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05405" lon="-157.08556">
+        <time>2016-01-02T00:12:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04228" lon="-157.12781">
+        <time>2016-01-02T00:33:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.037" lon="-157.14684">
+        <time>2016-01-02T00:42:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03365" lon="-157.15993">
+        <time>2016-01-02T00:49:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03292" lon="-157.163">
+        <time>2016-01-02T00:50:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03091" lon="-157.17108">
+        <time>2016-01-02T00:54:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02523" lon="-157.19431">
+        <time>2016-01-02T01:07:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07636" lon="-157.03252">
+        <time>2016-01-01T23:39:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07066" lon="-157.03665">
+        <time>2016-01-01T23:45:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05291" lon="-157.08953">
+        <time>2016-01-02T00:14:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05204" lon="-157.09253">
+        <time>2016-01-02T00:15:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04978" lon="-157.10047">
+        <time>2016-01-02T00:19:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04893" lon="-157.10341">
+        <time>2016-01-02T00:21:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04453" lon="-157.11963">
+        <time>2016-01-02T00:29:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04064" lon="-157.13397">
+        <time>2016-01-02T00:36:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02734" lon="-157.18405">
+        <time>2016-01-02T01:01:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02376" lon="-157.2022">
+        <time>2016-01-02T01:11:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05035" lon="-157.09844">
+        <time>2016-01-02T00:18:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03216" lon="-157.16603">
+        <time>2016-01-02T00:52:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02788" lon="-157.18205">
+        <time>2016-01-02T01:00:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02634" lon="-157.18865">
+        <time>2016-01-02T01:04:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02788" lon="-157.23696">
+        <time>2016-01-02T01:30:26.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03002" lon="-157.24371">
+        <time>2016-01-02T01:34:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03245" lon="-157.25145">
+        <time>2016-01-02T01:38:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04672" lon="-157.11153">
+        <time>2016-01-02T00:25:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04312" lon="-157.12477">
+        <time>2016-01-02T00:31:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02716" lon="-157.23445">
+        <time>2016-01-02T01:28:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03526" lon="-157.26135">
+        <time>2016-01-02T01:44:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04081" lon="-157.27599">
+        <time>2016-01-02T01:53:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03619" lon="-157.14979">
+        <time>2016-01-02T00:44:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03437" lon="-157.15693">
+        <time>2016-01-02T00:47:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02594" lon="-157.19061">
+        <time>2016-01-02T01:05:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02424" lon="-157.19925">
+        <time>2016-01-02T01:10:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.024" lon="-157.2062">
+        <time>2016-01-02T01:13:58.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02432" lon="-157.20929">
+        <time>2016-01-02T01:15:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02429" lon="-157.2138">
+        <time>2016-01-02T01:17:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02465" lon="-157.22333">
+        <time>2016-01-02T01:22:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02631" lon="-157.23169">
+        <time>2016-01-02T01:27:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03772" lon="-157.26815">
+        <time>2016-01-02T01:48:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04228" lon="-157.28075">
+        <time>2016-01-02T01:56:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0512" lon="-157.09544">
+        <time>2016-01-02T00:17:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04147" lon="-157.13091">
+        <time>2016-01-02T00:34:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02671" lon="-157.18657">
+        <time>2016-01-02T01:02:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0256" lon="-157.22903">
+        <time>2016-01-02T01:25:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03094" lon="-157.24621">
+        <time>2016-01-02T01:35:54.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04581" lon="-157.29153">
+        <time>2016-01-02T02:02:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05081" lon="-157.30533">
+        <time>2016-01-02T02:11:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05666" lon="-157.32296">
+        <time>2016-01-02T02:22:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05868" lon="-157.32904">
+        <time>2016-01-02T02:26:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06059" lon="-157.33353">
+        <time>2016-01-02T02:28:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02424" lon="-157.21655">
+        <time>2016-01-02T01:19:26.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02946" lon="-157.24195">
+        <time>2016-01-02T01:33:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03322" lon="-157.25407">
+        <time>2016-01-02T01:40:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0428" lon="-157.2824">
+        <time>2016-01-02T01:57:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04452" lon="-157.28683">
+        <time>2016-01-02T01:59:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.055" lon="-157.31808">
+        <time>2016-01-02T02:19:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05721" lon="-157.32459">
+        <time>2016-01-02T02:23:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06164" lon="-157.33619">
+        <time>2016-01-02T02:30:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.02437" lon="-157.21144">
+        <time>2016-01-02T01:16:11.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04695" lon="-157.29551">
+        <time>2016-01-02T02:05:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0696" lon="-157.356">
+        <time>2016-01-02T02:42:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.03382" lon="-157.25647">
+        <time>2016-01-02T01:41:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04789" lon="-157.298">
+        <time>2016-01-02T02:06:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05202" lon="-157.30924">
+        <time>2016-01-02T02:13:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06287" lon="-157.3394">
+        <time>2016-01-02T02:32:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07211" lon="-157.36232">
+        <time>2016-01-02T02:46:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08357" lon="-157.38861">
+        <time>2016-01-02T03:01:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04648" lon="-157.29388">
+        <time>2016-01-02T02:04:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05422" lon="-157.31573">
+        <time>2016-01-02T02:17:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07491" lon="-157.36908">
+        <time>2016-01-02T02:50:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0766" lon="-157.37331">
+        <time>2016-01-02T02:52:38.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08271" lon="-157.3868">
+        <time>2016-01-02T03:00:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08802" lon="-157.39799">
+        <time>2016-01-02T03:07:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09519" lon="-157.41491">
+        <time>2016-01-02T03:17:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09961" lon="-157.42633">
+        <time>2016-01-02T03:23:39.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10249" lon="-157.43335">
+        <time>2016-01-02T03:27:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04531" lon="-157.28931">
+        <time>2016-01-02T02:01:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.04876" lon="-157.30049">
+        <time>2016-01-02T02:08:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05781" lon="-157.32664">
+        <time>2016-01-02T02:24:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07064" lon="-157.35848">
+        <time>2016-01-02T02:43:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07971" lon="-157.38025">
+        <time>2016-01-02T02:56:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09255" lon="-157.40811">
+        <time>2016-01-02T03:13:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09874" lon="-157.42443">
+        <time>2016-01-02T03:22:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10076" lon="-157.42889">
+        <time>2016-01-02T03:25:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1039" lon="-157.43736">
+        <time>2016-01-02T03:30:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.05986" lon="-157.33173">
+        <time>2016-01-02T02:27:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06378" lon="-157.34184">
+        <time>2016-01-02T02:33:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07382" lon="-157.36645">
+        <time>2016-01-02T02:48:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08075" lon="-157.38261">
+        <time>2016-01-02T02:58:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08156" lon="-157.38431">
+        <time>2016-01-02T02:59:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08873" lon="-157.39964">
+        <time>2016-01-02T03:08:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11147" lon="-157.45897">
+        <time>2016-01-02T03:42:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11298" lon="-157.46325">
+        <time>2016-01-02T03:45:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06482" lon="-157.3444">
+        <time>2016-01-02T02:35:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07131" lon="-157.36012">
+        <time>2016-01-02T02:44:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07843" lon="-157.3776">
+        <time>2016-01-02T02:55:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08687" lon="-157.39548">
+        <time>2016-01-02T03:05:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09129" lon="-157.40548">
+        <time>2016-01-02T03:11:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10933" lon="-157.45231">
+        <time>2016-01-02T03:38:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11062" lon="-157.45643">
+        <time>2016-01-02T03:41:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11419" lon="-157.46735">
+        <time>2016-01-02T03:47:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11586" lon="-157.47247">
+        <time>2016-01-02T03:50:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06591" lon="-157.34697">
+        <time>2016-01-02T02:36:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06751" lon="-157.35096">
+        <time>2016-01-02T02:39:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.06851" lon="-157.35347">
+        <time>2016-01-02T02:40:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.08486" lon="-157.3912">
+        <time>2016-01-02T03:03:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.0934" lon="-157.40991">
+        <time>2016-01-02T03:14:28.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10312" lon="-157.43504">
+        <time>2016-01-02T03:28:38.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10789" lon="-157.44805">
+        <time>2016-01-02T03:36:23.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11373" lon="-157.46573">
+        <time>2016-01-02T03:46:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11517" lon="-157.46999">
+        <time>2016-01-02T03:49:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1179" lon="-157.47971">
+        <time>2016-01-02T03:55:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12217" lon="-157.49129">
+        <time>2016-01-02T04:02:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.07583" lon="-157.37148">
+        <time>2016-01-02T02:51:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09584" lon="-157.41667">
+        <time>2016-01-02T03:18:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09772" lon="-157.42188">
+        <time>2016-01-02T03:21:10.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.106" lon="-157.44269">
+        <time>2016-01-02T03:33:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10698" lon="-157.44541">
+        <time>2016-01-02T03:34:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10878" lon="-157.4506">
+        <time>2016-01-02T03:37:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11707" lon="-157.47664">
+        <time>2016-01-02T03:53:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12575" lon="-157.50125">
+        <time>2016-01-02T04:08:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13023" lon="-157.51439">
+        <time>2016-01-02T04:16:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12028" lon="-157.48648">
+        <time>2016-01-02T03:59:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12496" lon="-157.49888">
+        <time>2016-01-02T04:06:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12905" lon="-157.51104">
+        <time>2016-01-02T04:14:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1382" lon="-157.53513">
+        <time>2016-01-02T04:28:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14423" lon="-157.54911">
+        <time>2016-01-02T04:36:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14547" lon="-157.55177">
+        <time>2016-01-02T04:37:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.15216" lon="-157.56732">
+        <time>2016-01-02T04:46:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.15443" lon="-157.57248">
+        <time>2016-01-02T04:49:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16081" lon="-157.58541">
+        <time>2016-01-02T04:57:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.09065" lon="-157.40391">
+        <time>2016-01-02T03:10:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1175" lon="-157.4782">
+        <time>2016-01-02T03:54:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11958" lon="-157.48472">
+        <time>2016-01-02T03:58:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12432" lon="-157.49712">
+        <time>2016-01-02T04:05:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12756" lon="-157.50684">
+        <time>2016-01-02T04:11:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13092" lon="-157.51616">
+        <time>2016-01-02T04:17:08.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14181" lon="-157.54385">
+        <time>2016-01-02T04:33:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14788" lon="-157.55701">
+        <time>2016-01-02T04:40:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.15114" lon="-157.56476">
+        <time>2016-01-02T04:45:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1567" lon="-157.57763">
+        <time>2016-01-02T04:52:33.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16489" lon="-157.59243">
+        <time>2016-01-02T05:01:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.10491" lon="-157.43997">
+        <time>2016-01-02T03:31:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1271" lon="-157.50531">
+        <time>2016-01-02T04:10:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13916" lon="-157.53769">
+        <time>2016-01-02T04:29:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14295" lon="-157.54645">
+        <time>2016-01-02T04:34:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16236" lon="-157.58804">
+        <time>2016-01-02T04:58:18.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1668" lon="-157.59673">
+        <time>2016-01-02T05:04:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1018" lon="-157.43156">
+        <time>2016-01-02T03:26:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11013" lon="-157.45481">
+        <time>2016-01-02T03:40:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11211" lon="-157.46075">
+        <time>2016-01-02T03:43:38.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12117" lon="-157.48884">
+        <time>2016-01-02T04:00:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12837" lon="-157.50924">
+        <time>2016-01-02T04:13:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13193" lon="-157.5188">
+        <time>2016-01-02T04:18:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14071" lon="-157.54123">
+        <time>2016-01-02T04:31:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14946" lon="-157.56052">
+        <time>2016-01-02T04:42:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.15017" lon="-157.56225">
+        <time>2016-01-02T04:43:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16384" lon="-157.59069">
+        <time>2016-01-02T05:00:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17135" lon="-157.60647">
+        <time>2016-01-02T05:09:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11862" lon="-157.48215">
+        <time>2016-01-02T03:56:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12334" lon="-157.49455">
+        <time>2016-01-02T04:04:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13252" lon="-157.52049">
+        <time>2016-01-02T04:19:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13611" lon="-157.52992">
+        <time>2016-01-02T04:25:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13718" lon="-157.53257">
+        <time>2016-01-02T04:26:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.15289" lon="-157.56904">
+        <time>2016-01-02T04:47:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.15554" lon="-157.57507">
+        <time>2016-01-02T04:51:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1576" lon="-157.57937">
+        <time>2016-01-02T04:53:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13428" lon="-157.52545">
+        <time>2016-01-02T04:22:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16344" lon="-157.58996">
+        <time>2016-01-02T04:59:39.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17032" lon="-157.60371">
+        <time>2016-01-02T05:08:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17515" lon="-157.61808">
+        <time>2016-01-02T05:15:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18377" lon="-157.64563">
+        <time>2016-01-02T05:29:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18739" lon="-157.65663">
+        <time>2016-01-02T05:35:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.19247" lon="-157.67252">
+        <time>2016-01-02T05:43:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.11636" lon="-157.4742">
+        <time>2016-01-02T03:51:38.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.12629" lon="-157.50288">
+        <time>2016-01-02T04:09:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13343" lon="-157.523">
+        <time>2016-01-02T04:21:07.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.13501" lon="-157.52723">
+        <time>2016-01-02T04:23:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.14668" lon="-157.55441">
+        <time>2016-01-02T04:39:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20216" lon="-157.70485">
+        <time>2016-01-02T05:58:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20277" lon="-157.70703">
+        <time>2016-01-02T05:59:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16566" lon="-157.59433">
+        <time>2016-01-02T05:02:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18134" lon="-157.63768">
+        <time>2016-01-02T05:25:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18469" lon="-157.64853">
+        <time>2016-01-02T05:31:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.19969" lon="-157.69644">
+        <time>2016-01-02T05:54:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20123" lon="-157.70172">
+        <time>2016-01-02T05:57:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16894" lon="-157.60112">
+        <time>2016-01-02T05:06:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17235" lon="-157.60939">
+        <time>2016-01-02T05:11:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17334" lon="-157.61227">
+        <time>2016-01-02T05:12:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17646" lon="-157.62207">
+        <time>2016-01-02T05:17:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17881" lon="-157.62973">
+        <time>2016-01-02T05:21:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17981" lon="-157.63265">
+        <time>2016-01-02T05:23:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18673" lon="-157.65457">
+        <time>2016-01-02T05:34:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20059" lon="-157.69951">
+        <time>2016-01-02T05:56:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18042" lon="-157.63467">
+        <time>2016-01-02T05:24:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18905" lon="-157.6618">
+        <time>2016-01-02T05:37:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1901" lon="-157.66489">
+        <time>2016-01-02T05:39:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.19157" lon="-157.66964">
+        <time>2016-01-02T05:41:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2036" lon="-157.71012">
+        <time>2016-01-02T06:01:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21694" lon="-157.75884">
+        <time>2016-01-02T06:25:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18223" lon="-157.64056">
+        <time>2016-01-02T05:27:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18568" lon="-157.65168">
+        <time>2016-01-02T05:32:38.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18838" lon="-157.65971">
+        <time>2016-01-02T05:36:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21037" lon="-157.73596">
+        <time>2016-01-02T06:13:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21277" lon="-157.74427">
+        <time>2016-01-02T06:17:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21935" lon="-157.76673">
+        <time>2016-01-02T06:30:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.16765" lon="-157.59848">
+        <time>2016-01-02T05:05:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.19542" lon="-157.68191">
+        <time>2016-01-02T05:47:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20453" lon="-157.71329">
+        <time>2016-01-02T06:02:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20517" lon="-157.71544">
+        <time>2016-01-02T06:03:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2098" lon="-157.73371">
+        <time>2016-01-02T06:12:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21327" lon="-157.74629">
+        <time>2016-01-02T06:18:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21516" lon="-157.75339">
+        <time>2016-01-02T06:22:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.22232" lon="-157.77483">
+        <time>2016-01-02T06:34:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2271" lon="-157.78644">
+        <time>2016-01-02T06:41:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.17733" lon="-157.62491">
+        <time>2016-01-02T05:19:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.18311" lon="-157.64359">
+        <time>2016-01-02T05:28:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.19345" lon="-157.67564">
+        <time>2016-01-02T05:44:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.19416" lon="-157.67781">
+        <time>2016-01-02T05:45:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.199" lon="-157.6942">
+        <time>2016-01-02T05:53:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21471" lon="-157.75168">
+        <time>2016-01-02T06:21:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21785" lon="-157.76168">
+        <time>2016-01-02T06:27:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21848" lon="-157.76407">
+        <time>2016-01-02T06:28:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.23115" lon="-157.79577">
+        <time>2016-01-02T06:47:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21387" lon="-157.74899">
+        <time>2016-01-02T06:20:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.22427" lon="-157.78003">
+        <time>2016-01-02T06:37:23.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.23934" lon="-157.8112">
+        <time>2016-01-02T06:59:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.24522" lon="-157.82141">
+        <time>2016-01-02T07:07:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.24977" lon="-157.82708">
+        <time>2016-01-02T07:12:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.22501" lon="-157.78181">
+        <time>2016-01-02T06:38:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2263" lon="-157.78457">
+        <time>2016-01-02T06:40:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.23205" lon="-157.79764">
+        <time>2016-01-02T06:48:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.23447" lon="-157.80243">
+        <time>2016-01-02T06:52:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.23638" lon="-157.80597">
+        <time>2016-01-02T06:55:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.24289" lon="-157.81776">
+        <time>2016-01-02T07:04:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.25515" lon="-157.83312">
+        <time>2016-01-02T07:17:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.1963" lon="-157.68501">
+        <time>2016-01-02T05:49:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.19721" lon="-157.68807">
+        <time>2016-01-02T05:50:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20596" lon="-157.71847">
+        <time>2016-01-02T06:05:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20652" lon="-157.72057">
+        <time>2016-01-02T06:06:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20734" lon="-157.72368">
+        <time>2016-01-02T06:07:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20791" lon="-157.72579">
+        <time>2016-01-02T06:08:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20861" lon="-157.72877">
+        <time>2016-01-02T06:10:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21189" lon="-157.74117">
+        <time>2016-01-02T06:16:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.22318" lon="-157.77728">
+        <time>2016-01-02T06:36:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.23015" lon="-157.79357">
+        <time>2016-01-02T06:45:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.24603" lon="-157.82241">
+        <time>2016-01-02T07:08:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.25137" lon="-157.829">
+        <time>2016-01-02T07:14:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.26123" lon="-157.84116">
+        <time>2016-01-02T07:23:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.20904" lon="-157.73068">
+        <time>2016-01-02T06:11:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21126" lon="-157.73909">
+        <time>2016-01-02T06:15:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.21587" lon="-157.75584">
+        <time>2016-01-02T06:24:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2825" lon="-157.84504">
+        <time>2016-01-02T07:51:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28675" lon="-157.8428">
+        <time>2016-01-02T07:59:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28637" lon="-157.84297">
+        <time>2016-01-02T08:17:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28638" lon="-157.84297">
+        <time>2016-01-02T08:20:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.27139" lon="-157.84673">
+        <time>2016-01-02T07:39:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.27246" lon="-157.84639">
+        <time>2016-01-02T07:40:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28409" lon="-157.84469">
+        <time>2016-01-02T07:52:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28585" lon="-157.84373">
+        <time>2016-01-02T07:55:05.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28646" lon="-157.84299">
+        <time>2016-01-02T08:05:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2864" lon="-157.84299">
+        <time>2016-01-02T08:26:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28641" lon="-157.84297">
+        <time>2016-01-02T08:29:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2651" lon="-157.84749">
+        <time>2016-01-02T07:30:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.2864" lon="-157.843">
+        <time>2016-01-02T08:08:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.27593" lon="-157.84647">
+        <time>2016-01-02T07:44:37.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28153" lon="-157.84531">
+        <time>2016-01-02T07:50:04.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28655" lon="-157.84324">
+        <time>2016-01-02T07:56:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28638" lon="-157.84297">
+        <time>2016-01-02T08:14:34.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.27765" lon="-157.84615">
+        <time>2016-01-02T07:46:06.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.27913" lon="-157.84584">
+        <time>2016-01-02T07:47:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28638" lon="-157.84297">
+        <time>2016-01-02T08:11:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28666" lon="-157.84295">
+        <time>2016-01-02T07:57:36.000Z</time>
+        <type>boat</type>
+      </trkpt>
+      <trkpt lat="21.28638" lon="-157.84297">
+        <time>2016-01-02T08:23:35.000Z</time>
+        <type>boat</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
