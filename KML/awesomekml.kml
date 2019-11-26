@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+    xmlns:gx= "http://www.google.com/kml/ext/2.2">
+    <Document>
+        <Folder>
+            <Placemark id="name">
+                <name>thing</name>
+                <description/>
+                <gx:balloonVisibility>0</gx:balloonVisibility>
+                <LookAt>
+                    <longitude>12</longitude>
+                    <latitude>12</latitude>
+                    <range>32323</range>
+                </LookAt>
+                <Point>
+                    <coordinates>12,12,32323</coordinates>
+                    <altitudeMode>relativeToGround</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
