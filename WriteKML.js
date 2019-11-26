@@ -2,24 +2,26 @@ var builder = require('xmlbuilder')
 var fs = require('fs')
 
 xmlbuilder()
-function xmlbuilder(Boats) {
-    var root = builder.create('kml', {encoding: 'utf-8'}).att('xmlns', 'http://earth.google.com/kml/2.2');
+
+function xmlbuilder(BoatsArray) {
+    var root = builder.create('kml', {
+        encoding: 'utf-8'
+    }).att('xmlns', 'http://earth.google.com/kml/2.2');
     var Document = root.ele('Document')
-    Boats.forEach(boat => {
+    BoatsArray.forEach(boat => {
         let Folder = Document.ele("Folder")
-        boat..forEach(element => {
-            
+        boat.rows.forEach(row => {
+            let Placemark = Document.ele('Placemark')
+            let Timestamp = Placemark.ele("TimeStamp")
+            let Point = Placemark.ele("Point")
+            Point.ele("coordinates", {}, row.LAT + "," + row.LON)
+            Timestamp.ele("when", {}, row.BaseDateTime)
         });
-        let Placemark = Document.ele('Placemark')
-        let Timestamp = Placemark.ele("TimeStamp")
-        let Point = Placemark.ele("Point")
-        Timestamp.ele("when",{}, )
+
     });
-    for (let i = 0; i < 5; i++) {
-        const element = 5      
-        
-    }
-    
-    var xml = root.end({pretty: true})
+
+    var xml = root.end({
+        pretty: true
+    })
     fs.writeFileSync('./KML/xmlbuilderXML' + '.kml', xml)
 }
