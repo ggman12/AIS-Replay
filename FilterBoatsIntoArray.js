@@ -1,6 +1,6 @@
 const csv = require('csv-parser')
 const fs = require('fs');
-class Boats {
+class BoatContainer {
   constructor() {
     this.Boats = [] // After the CSV is read there will be 57 boats in the array
   }
@@ -24,7 +24,7 @@ class Boat{
   }
 }
 
-  var BoatsArray = new Boats();
+  var boatContainer = new BoatContainer();
 
   readCSV();
 
@@ -34,20 +34,13 @@ class Boat{
       }).pipe(csv())
       .on('data', (row) => {
        
-        BoatsArray.addBoat(row);
+        boatContainer.addBoat(row);
   
       })
       .on('end', () => {
         console.log('end of CSV');
-        console.log(BoatsArray.Boats)
-        require('./GPXCreator')(BoatsArray.Boats);
-        //write the .gpx data to a .gpx file for each Boat in GPS array
-        let GPScount = 0
-        BoatsArray.Boats.forEach(Boat => {
-          const gpx = Boat.gpxData;
-          fs.writeFileSync('./GPS/Test/Boat'+ GPScount + '.gpx', gpx)
-          GPScount++;
-        });
+        console.log(boatContainer.Boats)
+        require('./WriteKML')(boatContainer.Boats)
        
         
       
@@ -57,97 +50,6 @@ class Boat{
      
       })
   }
-  function CreateCSVForEach(Boats) { 
-    let count = 0;
+  
 
-    Boats.forEach(Boat => {
-      let createCsvWriter = require('csv-writer').createObjectCsvWriter;
-      let csvWriter = createCsvWriter({
-    path: './Boats/Boat' + count.toString() + '.csv',
-    header: [{
-        id: 'MMSI',
-        title: 'MMSI'
-      },
-      {
-        id: 'BaseDateTime',
-        title: 'BaseDateTime'
-      },
-      {
-        id: 'LAT',
-        title: 'LAT'
-      },
-      {
-        id: 'LON',
-        title: 'LON'
-      },
-      {
-        id: 'SOG',
-        title: 'SOG'
-      },
-      {
-        id: 'COG',
-        title: 'COG'
-      },
-      {
-        id: 'Heading',
-        title: 'Heading'
-      },
-      {
-        id: 'VesselName',
-        title: 'VesselName'
-      },
-      {
-        id: 'IMO',
-        title: 'IMO'
-      },
-      {
-        id: 'CallSign',
-        title: 'CallSign'
-      },
-      {
-        id: 'VesselType',
-        title: 'VesselType'
-      },
-      {
-        id: 'Status',
-        title: 'Status'
-      },
-      {
-        id: 'Length',
-        title: 'Length'
-      },
-      {
-        id: 'Width',
-        title: 'Width'
-      },
-      {
-        id: 'Draft',
-        title: 'Draft'
-      },
-      {
-        id: 'Cargo',
-        title: 'Cargo'
-      }
-
-    ]
-  });
-  csvWriter.writeRecords(Boat).then(() => {
-    console.log("CSV Written")
-  })
-  count++;
-    });
-  }
-
-  var Ships = [
-
-  ]
-
-  function writeCSV() {
-
-    csvWriter.writeRecords(Ships).then(() => {
-      console.log("CSV Written")
-      process.exit()
-    })
-
-
-  }
+  
