@@ -9,7 +9,7 @@ module.exports = function (Boats) {
 function xmlbuilder(Boats) {
     var root = builder.create('kml', {
         encoding: 'utf-8'
-    }).att('xmlns', 'http://earth.google.com/kml/2.2');
+    }).att('xmlns', 'http://www.opengis.net/kml/2.2').att('xmlns:gx', "http://www.google.com/kml/ext/2.2")
     var Document = root.ele('Document')
 
     Boats.forEach(boat => {
@@ -24,27 +24,17 @@ function xmlbuilder(Boats) {
         LookAt.ele("heading", {}, -3)
         LookAt.ele("tilt",{}, 0)
         Folder.ele("Style").ele("ListStyle").ele("listItemType",{},"checkHideChildren")
+        let Track = Folder.ele('Placemark').ele("gx:Track")
 
         boat.rows.forEach(row => {
-            let Placemark = Folder.ele('Placemark')
-            let Timestamp = Placemark.ele("TimeStamp")
-            Placemark.ele("styleUrl",{}, "#seeadler-dot-icon")
-            let Point = Placemark.ele("Point")
-            Point.ele("coordinates", {}, row.LON + "," + row.LAT)
-            Timestamp.ele("when", {}, row.BaseDateTime)
+            Track.ele("when",{}, row.BaseDateTime)
+        });
+        boat.rows.forEach(row => {
+            Track.ele("gx:coord",{}, row.LON + " " + row.LAT+ " " + 0)
         });
         
 
     });
-    // let Placemark = Document.ele("Placemark")
-    //     Placemark.ele("name", {}, "Aweseom line")
-    //     let LineStyle = Placemark.ele("Style").ele("LineStyle")
-    //     LineStyle.ele("color",{}, "ff0000ff")
-    //     LineStyle.ele("width", {}, "5")
-    //     let Line = Placemark.ele("LineString")
-    //     Line.ele("tessellate",{}, 1)
-    //     Line.ele("altitudeMode",{}, "absolute")
-    //     Line.ele("coordinates",{},"55.374000,-4.640000 55.405000,-4.579000 55.393000,-4.654000")
 
     var xml = root.end({
         pretty: true
