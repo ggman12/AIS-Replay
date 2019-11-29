@@ -8,13 +8,12 @@ module.exports = function (Boats) {
 }
 
 
+var root = builder.create('kml', {
+    encoding: 'utf-8'
+}).att('xmlns', 'http://www.opengis.net/kml/2.2').att('xmlns:gx', "http://www.google.com/kml/ext/2.2")
+var Document = root.ele('Document')
 
 function xmlbuilder(Boats) {
-    var root = builder.create('kml', {
-        encoding: 'utf-8'
-    }).att('xmlns', 'http://www.opengis.net/kml/2.2').att('xmlns:gx', "http://www.google.com/kml/ext/2.2")
-    var Document = root.ele('Document')
-    CreateStyles(Document)
     Boats.forEach(boat => {
         let Folder = Document.ele("Folder")
         Folder.ele("name", {}, boat.rows[0].MMSI)
@@ -28,12 +27,8 @@ function xmlbuilder(Boats) {
         LookAt.ele("tilt", {}, 0)
         Folder.ele("Style").ele("ListStyle").ele("listItemType", {}, "checkHideChildren")
         let Placemark = Folder.ele('Placemark')
-        Placemark.ele("description",{}, CreateDescriptionForBoat(boat))
-       
-
-
-
-        SetStyleBasedOnLength(boat, Placemark)
+        Placemark.ele("description", {}, CreateDescriptionForBoat(boat))
+        Placemark.ele("styleUrl", {}, "#" + SetStyleBasedOnLength(boat))
         let Track = Placemark.ele("gx:Track")
 
         boat.rows.forEach(row => {
@@ -55,49 +50,37 @@ function xmlbuilder(Boats) {
     fs.writeFileSync('./KML/BoatsKML' + '.kml', xml)
 }
 
-function CreateStyles(Document) {
-    let Style = Document.ele("Style").att("id", "boat1");
+function CreateStyle(scale) {
+    let hash = ID();
+    let Style = Document.ele("Style").att("id", hash);
     let IconStyle = Style.ele("IconStyle")
-    IconStyle.ele("scale", {}, 1)
-
-     Icon = IconStyle.ele("Icon")
+    IconStyle.ele("scale", {}, scale)
+    Icon = IconStyle.ele("Icon")
     Icon.ele("href", {}, "http://maps.google.com/mapfiles/kml/shapes/ferry.png")
-
-     Style = Document.ele("Style").att("id", "boat2");
-     IconStyle = Style.ele("IconStyle")
-    IconStyle.ele("scale", {}, 1.5)
-
-     Icon = IconStyle.ele("Icon")
-    Icon.ele("href", {}, "http://maps.google.com/mapfiles/kml/shapes/ferry.png")
-    
-     Style = Document.ele("Style").att("id", "boat4");
-     IconStyle = Style.ele("IconStyle")
-    IconStyle.ele("scale", {}, 2)
-
-     Icon = IconStyle.ele("Icon")
-    Icon.ele("href", {}, "http://maps.google.com/mapfiles/kml/shapes/ferry.png")
-
+    return hash;
 
 }
 
-function SetStyleBasedOnLength(boat, Placemark) {
-    if (boat.length >= 200) {
-        Placemark.ele("styleUrl", {}, "#boat4")
+function SetStyleBasedOnLength(boat) {
+    let scale = 1
+    let maxlength = 250;
+    if (isNaN(boat.length)) {
+        return CreateStyle(1);
 
-    }
-    else if (boat.length >= 100) {
-        Placemark.ele("styleUrl", {}, "#boat2")
-    }
-    else if (boat.length < 50) {
-        Placemark.ele("styleUrl", {}, "#boat1")
-    }
-     else {
-        Placemark.ele("styleUrl", {}, "#boat1")
+    } else {
 
+        scale = scale + boat.length / maxlength;
+        return CreateStyle(scale);
     }
 
 }
 
 function CreateDescriptionForBoat(boat) {
-    return ejs.render(ejsTemplate, {boat})
+    return ejs.render(ejsTemplate, {
+        boat
+    })
 }
+
+var ID = function () {
+    return '_' + Math.random().toString(36).substr(2, 9);
+};
