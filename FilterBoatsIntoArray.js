@@ -20,6 +20,7 @@ class Boat{
   constructor(row){
     this.MMSI = row.MMSI
     this.length = row.Length
+    this.VesselName = row.VesselName
     this.rows = [row]
   }
 }

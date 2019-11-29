@@ -1,5 +1,8 @@
 var builder = require('xmlbuilder')
 var fs = require('fs')
+var ejs = require('ejs')
+let ejsTemplate = fs.readFileSync(__dirname + '/KML/template.ejs', 'ascii')
+
 module.exports = function (Boats) {
     xmlbuilder(Boats)
 }
@@ -25,6 +28,11 @@ function xmlbuilder(Boats) {
         LookAt.ele("tilt", {}, 0)
         Folder.ele("Style").ele("ListStyle").ele("listItemType", {}, "checkHideChildren")
         let Placemark = Folder.ele('Placemark')
+        Placemark.ele("description",{}, CreateDescriptionForBoat(boat))
+       
+
+
+
         SetStyleBasedOnLength(boat, Placemark)
         let Track = Placemark.ele("gx:Track")
 
@@ -48,41 +56,26 @@ function xmlbuilder(Boats) {
 }
 
 function CreateStyles(Document) {
-    // for (let i = 1; i <= 4; i++) {
-        
-    //     let Style = Document.ele("Style").att("id", "boat" + i);
-    //     let IconStyle = Style.ele("IconStyle")
-    //     IconStyle.ele("scale", {}, 2)
-
-    //     let Icon = IconStyle.ele("Icon")
-    //     Icon.ele("href", {}, "Boat" + i + ".png")
-
-    //     // Icon.ele("viewBoundScale",{},5)
-  
-
-
-
-    // }
     let Style = Document.ele("Style").att("id", "boat1");
     let IconStyle = Style.ele("IconStyle")
     IconStyle.ele("scale", {}, 1)
 
      Icon = IconStyle.ele("Icon")
-    Icon.ele("href", {}, "http://maps.google.com/mapfiles/kml/shapes/sailing.png")
+    Icon.ele("href", {}, "http://maps.google.com/mapfiles/kml/shapes/ferry.png")
 
      Style = Document.ele("Style").att("id", "boat2");
      IconStyle = Style.ele("IconStyle")
-    IconStyle.ele("scale", {}, 2)
+    IconStyle.ele("scale", {}, 1.5)
 
      Icon = IconStyle.ele("Icon")
     Icon.ele("href", {}, "http://maps.google.com/mapfiles/kml/shapes/ferry.png")
     
      Style = Document.ele("Style").att("id", "boat4");
      IconStyle = Style.ele("IconStyle")
-    IconStyle.ele("scale", {}, 4)
+    IconStyle.ele("scale", {}, 2)
 
      Icon = IconStyle.ele("Icon")
-    Icon.ele("href", {}, "boat4.png")
+    Icon.ele("href", {}, "http://maps.google.com/mapfiles/kml/shapes/ferry.png")
 
 
 }
@@ -92,7 +85,7 @@ function SetStyleBasedOnLength(boat, Placemark) {
         Placemark.ele("styleUrl", {}, "#boat4")
 
     }
-    else if (boat.length >= 50) {
+    else if (boat.length >= 100) {
         Placemark.ele("styleUrl", {}, "#boat2")
     }
     else if (boat.length < 50) {
@@ -103,4 +96,8 @@ function SetStyleBasedOnLength(boat, Placemark) {
 
     }
 
+}
+
+function CreateDescriptionForBoat(boat) {
+    return ejs.render(ejsTemplate, {boat})
 }
