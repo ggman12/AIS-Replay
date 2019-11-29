@@ -18,7 +18,7 @@ function xmlbuilder(Boats) {
         let Folder = Document.ele("Folder")
         Folder.ele("name", {}, boat.rows[0].MMSI)
         Folder.ele("open", {}, 1)
-        let LookAt = Folder.ele("LookAt")
+        let LookAt = Folder.ele("LookAt") // LookAt is where the Google Earth Camera will go when a Folder is clicked
         LookAt.ele("longitude", {}, -157)
         LookAt.ele("latitude", {}, 21)
         LookAt.ele("altitude", {}, 0)
@@ -51,8 +51,8 @@ function xmlbuilder(Boats) {
 }
 
 function CreateStyle(scale) {
-    let hash = ID();
-    let Style = Document.ele("Style").att("id", hash);
+    let hash = ID(); // All 57 boats have a unqiue style so that their scale can be unique 
+    let Style = Document.ele("Style").att("id", hash); 
     let IconStyle = Style.ele("IconStyle")
     IconStyle.ele("scale", {}, scale)
     Icon = IconStyle.ele("Icon")
@@ -69,18 +69,16 @@ function SetStyleBasedOnLength(boat) {
 
     } else {
 
-        scale = scale + boat.length / maxlength;
+        scale = scale + boat.length / maxlength; // the boat scale ranges from 1-2 depending on boat length 
         return CreateStyle(scale);
     }
 
 }
 
 function CreateDescriptionForBoat(boat) {
-    return ejs.render(ejsTemplate, {
-        boat
-    })
+    return ejs.render(ejsTemplate, {boat})
 }
 
-var ID = function () {
+var ID = function () { // Creates a unique ID for the style
     return '_' + Math.random().toString(36).substr(2, 9);
 };
