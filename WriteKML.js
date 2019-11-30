@@ -15,6 +15,8 @@ var Document = root.ele('Document')
 
 function xmlbuilder(Boats) {
     Boats.forEach(boat => {
+        // Will be run 57 times for this data set
+
         let Folder = Document.ele("Folder")
         Folder.ele("name", {}, boat.rows[0].MMSI)
         Folder.ele("open", {}, 1)
@@ -22,14 +24,14 @@ function xmlbuilder(Boats) {
         LookAt.ele("longitude", {}, -157)
         LookAt.ele("latitude", {}, 21)
         LookAt.ele("altitude", {}, 0)
-        LookAt.ele("range", {}, 4060590.093687469)
+        LookAt.ele("range", {}, 4060590)
         LookAt.ele("heading", {}, -3)
         LookAt.ele("tilt", {}, 0)
-        Folder.ele("Style").ele("ListStyle").ele("listItemType", {}, "checkHideChildren")
-        let Placemark = Folder.ele('Placemark')
-        Placemark.ele("description", {}, CreateDescriptionForBoat(boat))
-        Placemark.ele("styleUrl", {}, "#" + SetStyleBasedOnLength(boat))
-        let Track = Placemark.ele("gx:Track")
+
+        let Placemark = Folder.ele('Placemark') // will contain all postion and time data for each row
+        Placemark.ele("description", {}, CreateDescriptionForBoat(boat)) // when a Placemark is clicked in google earth a description is displayed 
+        Placemark.ele("styleUrl", {}, "#" + SetStyleBasedOnLength(boat)) // Create and assign a style for the Boat 
+        let Track = Placemark.ele("gx:Track") // gx:Track is used by Placemark object for postion data that changes over time.
 
         boat.rows.forEach(row => {
             Track.ele("when", {}, row.BaseDateTime)
@@ -50,8 +52,8 @@ function xmlbuilder(Boats) {
     fs.writeFileSync('./KML/BoatsKML' + '.kml', xml)
 }
 
-function CreateStyle(scale) {
-    let hash = ID(); // All 57 boats have a unqiue style so that their scale can be unique 
+function CreateStyle(scale) { // All 57 boats have a unqiue style so that their scale can be unique 
+    let hash = ID(); 
     let Style = Document.ele("Style").att("id", hash); 
     let IconStyle = Style.ele("IconStyle")
     IconStyle.ele("scale", {}, scale)
@@ -61,10 +63,10 @@ function CreateStyle(scale) {
 
 }
 
-function SetStyleBasedOnLength(boat) {
+function SetStyleBasedOnLength(boat) { 
     let scale = 1
     let maxlength = 250;
-    if (isNaN(boat.length)) {
+    if (isNaN(boat.length)) { // Some of the Boat objects have no length 
         return CreateStyle(1);
 
     } else {
@@ -75,10 +77,10 @@ function SetStyleBasedOnLength(boat) {
 
 }
 
-function CreateDescriptionForBoat(boat) {
-    return ejs.render(ejsTemplate, {boat})
+function CreateDescriptionForBoat(boat) { // creates
+    return ejs.render(ejsTemplate, {boat}) // returns an html string used by KML description
 }
 
-var ID = function () { // Creates a unique ID for the style
+var ID = function () { // Creates a unique has ID used for Style
     return '_' + Math.random().toString(36).substr(2, 9);
 };

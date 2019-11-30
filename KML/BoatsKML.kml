@@ -8,15 +8,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: TIRA LANI&lt;/h1&gt;&#xD;
@@ -25,7 +20,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 22.92 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_dpjrrv5tj</styleUrl>
+        <styleUrl>#_qdbu1l1jv</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:04:25</when>
           <when>2016-01-01T10:21:34</when>
@@ -2994,7 +2989,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_dpjrrv5tj">
+    <Style id="_qdbu1l1jv">
       <IconStyle>
         <scale>1.09168</scale>
         <Icon>
@@ -3009,15 +3004,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: 95SC1203&lt;/h1&gt;&#xD;
@@ -3026,7 +3016,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length:  M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_smqtyrnjv</styleUrl>
+        <styleUrl>#_wux8cws11</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:05:45</when>
           <when>2016-01-01T10:09:06</when>
@@ -5953,7 +5943,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_smqtyrnjv">
+    <Style id="_wux8cws11">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -5968,15 +5958,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: MARY CATHERINE&lt;/h1&gt;&#xD;
@@ -5985,7 +5970,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 31.93 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_feahkutcn</styleUrl>
+        <styleUrl>#_1cp8uy5fy</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:06:01</when>
           <when>2016-01-01T10:12:02</when>
@@ -6551,7 +6536,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_feahkutcn">
+    <Style id="_1cp8uy5fy">
       <IconStyle>
         <scale>1.12772</scale>
         <Icon>
@@ -6566,15 +6551,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: PERSISTENCE LAB&lt;/h1&gt;&#xD;
@@ -6583,7 +6563,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 44.21 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_0y0cu6omx</styleUrl>
+        <styleUrl>#_8ooemg8ka</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:10:34</when>
           <when>2016-01-01T10:13:33</when>
@@ -7635,7 +7615,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_0y0cu6omx">
+    <Style id="_8ooemg8ka">
       <IconStyle>
         <scale>1.1768399999999999</scale>
         <Icon>
@@ -7650,15 +7630,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: GUTSY LADY 4&lt;/h1&gt;&#xD;
@@ -7667,7 +7642,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 26.15 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_dr3ril1fg</styleUrl>
+        <styleUrl>#_u48vg883x</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:06:22</when>
           <when>2016-01-01T10:11:01</when>
@@ -10918,7 +10893,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_dr3ril1fg">
+    <Style id="_u48vg883x">
       <IconStyle>
         <scale>1.1046</scale>
         <Icon>
@@ -10933,15 +10908,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: NIOLO&lt;/h1&gt;&#xD;
@@ -10950,7 +10920,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 32.86 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_ex5qzppkx</styleUrl>
+        <styleUrl>#_au7mwxbh5</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:08:14</when>
           <when>2016-01-01T10:05:53</when>
@@ -13475,7 +13445,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_ex5qzppkx">
+    <Style id="_au7mwxbh5">
       <IconStyle>
         <scale>1.13144</scale>
         <Icon>
@@ -13490,15 +13460,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: CG GALVESTON ISLAND&lt;/h1&gt;&#xD;
@@ -13507,7 +13472,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 33.53 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_909j1nu8x</styleUrl>
+        <styleUrl>#_jt21wx0te</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:12:12</when>
           <when>2016-01-01T10:21:28</when>
@@ -14373,7 +14338,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_909j1nu8x">
+    <Style id="_jt21wx0te">
       <IconStyle>
         <scale>1.13412</scale>
         <Icon>
@@ -14388,15 +14353,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: CAPT LES EASOM&lt;/h1&gt;&#xD;
@@ -14405,7 +14365,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 37.67 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_r2vpslnlo</styleUrl>
+        <styleUrl>#_rs4wj3yfi</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:01:45</when>
           <when>2016-01-01T10:04:45</when>
@@ -15346,7 +15306,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_r2vpslnlo">
+    <Style id="_rs4wj3yfi">
       <IconStyle>
         <scale>1.15068</scale>
         <Icon>
@@ -15361,15 +15321,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: NAVAJO&lt;/h1&gt;&#xD;
@@ -15378,7 +15333,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 65.44 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_xc3vptkix</styleUrl>
+        <styleUrl>#_9d1s30sej</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:11:47</when>
           <when>2016-01-01T10:14:49</when>
@@ -16448,7 +16403,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_xc3vptkix">
+    <Style id="_9d1s30sej">
       <IconStyle>
         <scale>1.26176</scale>
         <Icon>
@@ -16463,15 +16418,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: CASSIOPEIA&lt;/h1&gt;&#xD;
@@ -16480,7 +16430,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 11.67 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_psr8ie3ae</styleUrl>
+        <styleUrl>#_s2cbp2qc7</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:35:05</when>
           <when>2016-01-01T10:53:04</when>
@@ -17748,7 +17698,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_psr8ie3ae">
+    <Style id="_s2cbp2qc7">
       <IconStyle>
         <scale>1.04668</scale>
         <Icon>
@@ -17763,15 +17713,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: LEO SUN&lt;/h1&gt;&#xD;
@@ -17780,7 +17725,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 243.8 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_8zy4sxdfg</styleUrl>
+        <styleUrl>#_y0j1tj7z0</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:05:47</when>
           <when>2016-01-01T10:08:48</when>
@@ -18760,7 +18705,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_8zy4sxdfg">
+    <Style id="_y0j1tj7z0">
       <IconStyle>
         <scale>1.9752</scale>
         <Icon>
@@ -18775,15 +18720,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: STARR&lt;/h1&gt;&#xD;
@@ -18792,7 +18732,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 23.44 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_i55oqw5j0</styleUrl>
+        <styleUrl>#_6p4f9y5ut</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:10:25</when>
           <when>2016-01-01T10:18:36</when>
@@ -21611,7 +21551,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_i55oqw5j0">
+    <Style id="_6p4f9y5ut">
       <IconStyle>
         <scale>1.09376</scale>
         <Icon>
@@ -21626,15 +21566,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: ILIWAI&lt;/h1&gt;&#xD;
@@ -21643,7 +21578,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length:  M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_djzdo75t4</styleUrl>
+        <styleUrl>#_l46e12cpb</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:01:05</when>
           <when>2016-01-01T10:07:06</when>
@@ -24654,7 +24589,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_djzdo75t4">
+    <Style id="_l46e12cpb">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -24669,15 +24604,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HOKU-KE&amp;#39;A&lt;/h1&gt;&#xD;
@@ -24686,7 +24616,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 35.66 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_ded5fokjq</styleUrl>
+        <styleUrl>#_jq3b04eu6</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:04:39</when>
           <when>2016-01-01T10:07:40</when>
@@ -25870,7 +25800,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_ded5fokjq">
+    <Style id="_jq3b04eu6">
       <IconStyle>
         <scale>1.14264</scale>
         <Icon>
@@ -25885,15 +25815,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: MIKIOI&lt;/h1&gt;&#xD;
@@ -25902,7 +25827,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 23.77 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_lg4vl00f6</styleUrl>
+        <styleUrl>#_bct6tu14l</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:15:36</when>
           <when>2016-01-01T10:17:56</when>
@@ -29060,7 +28985,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_lg4vl00f6">
+    <Style id="_bct6tu14l">
       <IconStyle>
         <scale>1.09508</scale>
         <Icon>
@@ -29075,15 +29000,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: MOANA HOLO&lt;/h1&gt;&#xD;
@@ -29092,7 +29012,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 38.41 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_57emppxp5</styleUrl>
+        <styleUrl>#_0x7p4bg5k</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:18:27</when>
           <when>2016-01-01T10:24:29</when>
@@ -30192,7 +30112,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_57emppxp5">
+    <Style id="_0x7p4bg5k">
       <IconStyle>
         <scale>1.15364</scale>
         <Icon>
@@ -30207,15 +30127,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: NAMAHOE&lt;/h1&gt;&#xD;
@@ -30224,7 +30139,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 32.64 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_378lkxxc4</styleUrl>
+        <styleUrl>#_bidiid80o</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:04:32</when>
           <when>2016-01-01T10:07:03</when>
@@ -32188,7 +32103,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_378lkxxc4">
+    <Style id="_bidiid80o">
       <IconStyle>
         <scale>1.13056</scale>
         <Icon>
@@ -32203,15 +32118,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: PI&amp;#34;ILANI,IMO1172744,WDC6711,52,under way using engine,24,11,4.6,52&#xD;
@@ -32224,7 +32134,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length:  M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_irgka5cs0</styleUrl>
+        <styleUrl>#_xf5wn85jv</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:07:50</when>
           <when>2016-01-01T10:18:00</when>
@@ -34218,7 +34128,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_irgka5cs0">
+    <Style id="_xf5wn85jv">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -34233,15 +34143,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: FETCHIN&amp;#39; KETCH&lt;/h1&gt;&#xD;
@@ -34250,7 +34155,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 12.04 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_t47qoeqoo</styleUrl>
+        <styleUrl>#_27upv40zl</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:00:31</when>
           <when>2016-01-01T10:03:31</when>
@@ -35362,7 +35267,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_t47qoeqoo">
+    <Style id="_27upv40zl">
       <IconStyle>
         <scale>1.04816</scale>
         <Icon>
@@ -35377,15 +35282,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HENRY SR&lt;/h1&gt;&#xD;
@@ -35394,7 +35294,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 31.93 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_suudm2smy</styleUrl>
+        <styleUrl>#_67eu4n8iy</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:06:30</when>
           <when>2016-01-01T10:03:30</when>
@@ -36446,7 +36346,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_suudm2smy">
+    <Style id="_67eu4n8iy">
       <IconStyle>
         <scale>1.12772</scale>
         <Icon>
@@ -36461,15 +36361,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HAWAII RESPONDER&lt;/h1&gt;&#xD;
@@ -36478,7 +36373,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 63.57 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_dar6oke9m</styleUrl>
+        <styleUrl>#_4jr7ki25q</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:10:47</when>
           <when>2016-01-01T10:17:37</when>
@@ -39228,7 +39123,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_dar6oke9m">
+    <Style id="_4jr7ki25q">
       <IconStyle>
         <scale>1.25428</scale>
         <Icon>
@@ -39243,15 +39138,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: CG AHI&lt;/h1&gt;&#xD;
@@ -39260,7 +39150,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 26.52 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_agj6rbsod</styleUrl>
+        <styleUrl>#_97eb9uewt</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:14:31</when>
           <when>2016-01-01T10:00:52</when>
@@ -41848,7 +41738,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_agj6rbsod">
+    <Style id="_97eb9uewt">
       <IconStyle>
         <scale>1.10608</scale>
         <Icon>
@@ -41863,15 +41753,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: ENCORE&lt;/h1&gt;&#xD;
@@ -41880,7 +41765,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 43.9 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_z91gs1oyd</styleUrl>
+        <styleUrl>#_gdnfq5b2b</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:04:25</when>
           <when>2016-01-01T12:37:23</when>
@@ -42728,7 +42613,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_z91gs1oyd">
+    <Style id="_gdnfq5b2b">
       <IconStyle>
         <scale>1.1756</scale>
         <Icon>
@@ -42743,15 +42628,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: SALVOR&lt;/h1&gt;&#xD;
@@ -42760,7 +42640,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 71.17 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_g3ydvzqyv</styleUrl>
+        <styleUrl>#_9j0sapnl0</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:11:30</when>
           <when>2016-01-01T10:38:30</when>
@@ -43911,7 +43791,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_g3ydvzqyv">
+    <Style id="_9j0sapnl0">
       <IconStyle>
         <scale>1.28468</scale>
         <Icon>
@@ -43926,15 +43806,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: JANTHINA&lt;/h1&gt;&#xD;
@@ -43943,7 +43818,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 24.14 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_bco8c6fk4</styleUrl>
+        <styleUrl>#_ylkkmziyq</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:18:39</when>
           <when>2016-01-01T10:30:38</when>
@@ -45070,7 +44945,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_bco8c6fk4">
+    <Style id="_ylkkmziyq">
       <IconStyle>
         <scale>1.09656</scale>
         <Icon>
@@ -45085,15 +44960,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: KILO MOANA&lt;/h1&gt;&#xD;
@@ -45102,7 +44972,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 56.54 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_3ajmblof0</styleUrl>
+        <styleUrl>#_cu6uds1gd</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:40:25</when>
           <when>2016-01-01T10:01:23</when>
@@ -46268,7 +46138,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_3ajmblof0">
+    <Style id="_cu6uds1gd">
       <IconStyle>
         <scale>1.22616</scale>
         <Icon>
@@ -46283,15 +46153,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: NUNUI&lt;/h1&gt;&#xD;
@@ -46300,7 +46165,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 56.39 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_uqdky20mf</styleUrl>
+        <styleUrl>#_5l8ogukzg</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:00:24</when>
           <when>2016-01-01T10:01:35</when>
@@ -49566,7 +49431,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_uqdky20mf">
+    <Style id="_5l8ogukzg">
       <IconStyle>
         <scale>1.22556</scale>
         <Icon>
@@ -49581,15 +49446,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: OCEAN PATHFINDER&lt;/h1&gt;&#xD;
@@ -49598,7 +49458,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 41.64 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_76z4judzl</styleUrl>
+        <styleUrl>#_0jowom3w7</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:00:22</when>
           <when>2016-01-01T10:12:22</when>
@@ -51298,7 +51158,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_76z4judzl">
+    <Style id="_0jowom3w7">
       <IconStyle>
         <scale>1.16656</scale>
         <Icon>
@@ -51313,15 +51173,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: PACIFIC COLLECTOR&lt;/h1&gt;&#xD;
@@ -51330,7 +51185,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 119.84 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_d4yr365tq</styleUrl>
+        <styleUrl>#_5nk9youha</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:06:43</when>
           <when>2016-01-01T10:09:44</when>
@@ -52445,7 +52300,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_d4yr365tq">
+    <Style id="_5nk9youha">
       <IconStyle>
         <scale>1.47936</scale>
         <Icon>
@@ -52460,15 +52315,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: SALISHAN&lt;/h1&gt;&#xD;
@@ -52477,7 +52327,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 35.03 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_8nzf3n7xl</styleUrl>
+        <styleUrl>#_us6y2cxma</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:23:09</when>
           <when>2016-01-01T10:05:08</when>
@@ -53577,7 +53427,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_8nzf3n7xl">
+    <Style id="_us6y2cxma">
       <IconStyle>
         <scale>1.14012</scale>
         <Icon>
@@ -53592,15 +53442,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: RONALD H BROWN&lt;/h1&gt;&#xD;
@@ -53609,7 +53454,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 83.51 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_k5ud68ld5</styleUrl>
+        <styleUrl>#_cafjuexh1</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:14:50</when>
           <when>2016-01-01T10:20:50</when>
@@ -54676,7 +54521,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_k5ud68ld5">
+    <Style id="_cafjuexh1">
       <IconStyle>
         <scale>1.33404</scale>
         <Icon>
@@ -54691,15 +54536,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: KOKUA&lt;/h1&gt;&#xD;
@@ -54708,7 +54548,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 0 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_dv7g9n3ig</styleUrl>
+        <styleUrl>#_8uibpp673</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:23:09</when>
           <when>2016-01-01T10:26:08</when>
@@ -56765,7 +56605,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_dv7g9n3ig">
+    <Style id="_8uibpp673">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -56780,15 +56620,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: MIKI HANA&lt;/h1&gt;&#xD;
@@ -56797,7 +56632,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 33.53 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_mbmkz3gq3</styleUrl>
+        <styleUrl>#_m25ifefd9</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:16:51</when>
           <when>2016-01-01T10:22:51</when>
@@ -57972,7 +57807,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_mbmkz3gq3">
+    <Style id="_m25ifefd9">
       <IconStyle>
         <scale>1.13412</scale>
         <Icon>
@@ -57987,15 +57822,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HENRY J KAISER&lt;/h1&gt;&#xD;
@@ -58004,7 +57834,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 193.3 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_1oi9u7pqf</styleUrl>
+        <styleUrl>#_6acpkt59h</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:19:09</when>
           <when>2016-01-01T10:01:09</when>
@@ -59095,7 +58925,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_1oi9u7pqf">
+    <Style id="_6acpkt59h">
       <IconStyle>
         <scale>1.7732</scale>
         <Icon>
@@ -59110,15 +58940,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: MIHAMA&lt;/h1&gt;&#xD;
@@ -59127,7 +58952,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 58.12 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_g4mowkzmf</styleUrl>
+        <styleUrl>#_5w2w4ggww</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:16:13</when>
           <when>2016-01-01T10:04:13</when>
@@ -60263,7 +60088,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_g4mowkzmf">
+    <Style id="_5w2w4ggww">
       <IconStyle>
         <scale>1.23248</scale>
         <Icon>
@@ -60278,15 +60103,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: MANUOKEKAI&lt;/h1&gt;&#xD;
@@ -60295,7 +60115,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 38.41 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_wiperzjj5</styleUrl>
+        <styleUrl>#_2scypszzc</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:46:39</when>
           <when>2016-01-01T10:47:51</when>
@@ -62532,7 +62352,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_wiperzjj5">
+    <Style id="_2scypszzc">
       <IconStyle>
         <scale>1.15364</scale>
         <Icon>
@@ -62547,15 +62367,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: NRL/MRC 7&lt;/h1&gt;&#xD;
@@ -62564,7 +62379,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length:  M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_1dul6sjyk</styleUrl>
+        <styleUrl>#_quppks60r</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:01:17</when>
           <when>2016-01-01T10:05:38</when>
@@ -65680,7 +65495,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_1dul6sjyk">
+    <Style id="_quppks60r">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -65695,15 +65510,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: KAHANA&lt;/h1&gt;&#xD;
@@ -65712,7 +65522,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 56.39 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_vjwxlzebi</styleUrl>
+        <styleUrl>#_zj6johgki</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:14:58</when>
           <when>2016-01-01T10:29:56</when>
@@ -66686,7 +66496,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_vjwxlzebi">
+    <Style id="_zj6johgki">
       <IconStyle>
         <scale>1.22556</scale>
         <Icon>
@@ -66701,15 +66511,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HOKULANI&lt;/h1&gt;&#xD;
@@ -66718,7 +66523,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 34.83 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_cceykagfv</styleUrl>
+        <styleUrl>#_jmqct36ax</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:54:57</when>
           <when>2016-01-01T10:03:55</when>
@@ -67473,7 +67278,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_cceykagfv">
+    <Style id="_jmqct36ax">
       <IconStyle>
         <scale>1.13932</scale>
         <Icon>
@@ -67488,15 +67293,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: &lt;/h1&gt;&#xD;
@@ -67505,7 +67305,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length:  M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_ih7teot6w</styleUrl>
+        <styleUrl>#_eq3zwi92s</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:04:56</when>
           <when>2016-01-01T10:31:51</when>
@@ -67591,7 +67391,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_ih7teot6w">
+    <Style id="_eq3zwi92s">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -67606,15 +67406,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: &lt;/h1&gt;&#xD;
@@ -67623,7 +67418,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length:  M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_7aa25u1xu</styleUrl>
+        <styleUrl>#_q7nlu68ig</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:34:09</when>
           <when>2016-01-01T10:40:09</when>
@@ -68615,7 +68410,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_7aa25u1xu">
+    <Style id="_q7nlu68ig">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -68630,15 +68425,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: &lt;/h1&gt;&#xD;
@@ -68647,7 +68437,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length:  M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_7ks4u48w0</styleUrl>
+        <styleUrl>#_anposyu37</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:53:24</when>
           <when>2016-01-01T10:14:24</when>
@@ -69840,7 +69630,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_7ks4u48w0">
+    <Style id="_anposyu37">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -69855,15 +69645,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: SWAN SONG&lt;/h1&gt;&#xD;
@@ -69872,7 +69657,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 17.68 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_r78dbslz2</styleUrl>
+        <styleUrl>#_jhizqltvh</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:03:43</when>
           <when>2016-01-01T10:15:42</when>
@@ -70855,7 +70640,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_r78dbslz2">
+    <Style id="_jhizqltvh">
       <IconStyle>
         <scale>1.0707200000000001</scale>
         <Icon>
@@ -70870,15 +70655,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: CG KUKUI&lt;/h1&gt;&#xD;
@@ -70887,7 +70667,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 68.58 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_6ffbnfwp0</styleUrl>
+        <styleUrl>#_vjskuix7t</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:15:40</when>
           <when>2016-01-01T10:39:38</when>
@@ -71918,7 +71698,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_6ffbnfwp0">
+    <Style id="_vjskuix7t">
       <IconStyle>
         <scale>1.27432</scale>
         <Icon>
@@ -71933,15 +71713,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: KAIMIKAI-O-KANALOA&lt;/h1&gt;&#xD;
@@ -71950,7 +71725,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 56.39 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_c7leih28a</styleUrl>
+        <styleUrl>#_ohzis1ff6</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:07:53</when>
           <when>2016-01-01T10:10:54</when>
@@ -73062,7 +72837,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_c7leih28a">
+    <Style id="_ohzis1ff6">
       <IconStyle>
         <scale>1.22556</scale>
         <Icon>
@@ -73077,15 +72852,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HONOLULU&lt;/h1&gt;&#xD;
@@ -73094,7 +72864,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 12.59 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_asluoj1di</styleUrl>
+        <styleUrl>#_sy8gd7vxy</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:15:13</when>
           <when>2016-01-01T10:30:14</when>
@@ -74158,7 +73928,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_asluoj1di">
+    <Style id="_sy8gd7vxy">
       <IconStyle>
         <scale>1.05036</scale>
         <Icon>
@@ -74173,15 +73943,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: KAWIKA&lt;/h1&gt;&#xD;
@@ -74190,7 +73955,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 9.45 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_ro2xz3qfz</styleUrl>
+        <styleUrl>#_s7xud1jnw</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:16:04</when>
           <when>2016-01-01T10:13:05</when>
@@ -75251,7 +75016,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_ro2xz3qfz">
+    <Style id="_s7xud1jnw">
       <IconStyle>
         <scale>1.0378</scale>
         <Icon>
@@ -75266,15 +75031,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: NORD STEADY&lt;/h1&gt;&#xD;
@@ -75283,7 +75043,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 183 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_a69xcgaxj</styleUrl>
+        <styleUrl>#_j3im2cmeq</styleUrl>
         <gx:Track>
           <when>2016-01-01T10:56:59</when>
           <when>2016-01-01T11:06:18</when>
@@ -76902,7 +76662,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_a69xcgaxj">
+    <Style id="_j3im2cmeq">
       <IconStyle>
         <scale>1.732</scale>
         <Icon>
@@ -76917,15 +76677,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: NOHEA&lt;/h1&gt;&#xD;
@@ -76934,7 +76689,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 28.05 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_k192h5qe0</styleUrl>
+        <styleUrl>#_j0o0r5b0w</styleUrl>
         <gx:Track>
           <when>2016-01-01T09:30:30</when>
           <when>2016-01-01T09:39:30</when>
@@ -79795,7 +79550,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_k192h5qe0">
+    <Style id="_j0o0r5b0w">
       <IconStyle>
         <scale>1.1122</scale>
         <Icon>
@@ -79810,15 +79565,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: MAMO&lt;/h1&gt;&#xD;
@@ -79827,7 +79577,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 23.8 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_he0dt034b</styleUrl>
+        <styleUrl>#_v9easrm86</styleUrl>
         <gx:Track>
           <when>2016-01-01T16:28:10</when>
           <when>2016-01-01T16:50:05</when>
@@ -80678,7 +80428,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_he0dt034b">
+    <Style id="_v9easrm86">
       <IconStyle>
         <scale>1.0952</scale>
         <Icon>
@@ -80693,15 +80443,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: CASSIOPEIA&lt;/h1&gt;&#xD;
@@ -80710,7 +80455,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 11.67 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_bbkeoiw0s</styleUrl>
+        <styleUrl>#_ekofl4ioq</styleUrl>
         <gx:Track>
           <when>2016-01-01T22:19:34</when>
           <gx:coord>-157.41933 21.0969 0</gx:coord>
@@ -80718,7 +80463,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_bbkeoiw0s">
+    <Style id="_ekofl4ioq">
       <IconStyle>
         <scale>1.04668</scale>
         <Icon>
@@ -80733,15 +80478,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HOKU-LOA&lt;/h1&gt;&#xD;
@@ -80750,7 +80490,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 35.66 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_k7yc76qgo</styleUrl>
+        <styleUrl>#_asyscrp28</styleUrl>
         <gx:Track>
           <when>2016-01-01T22:54:52</when>
           <when>2016-01-01T23:00:32</when>
@@ -81475,7 +81215,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_k7yc76qgo">
+    <Style id="_asyscrp28">
       <IconStyle>
         <scale>1.14264</scale>
         <Icon>
@@ -81490,15 +81230,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: PHOENIX ADVANCE&lt;/h1&gt;&#xD;
@@ -81507,7 +81242,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 249.97 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_6btf72dkm</styleUrl>
+        <styleUrl>#_l9hoabw8v</styleUrl>
         <gx:Track>
           <when>2016-01-02T03:26:20</when>
           <when>2016-01-02T03:28:23</when>
@@ -82448,7 +82183,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_6btf72dkm">
+    <Style id="_l9hoabw8v">
       <IconStyle>
         <scale>1.99988</scale>
         <Icon>
@@ -82463,15 +82198,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: CAZAN&lt;/h1&gt;&#xD;
@@ -82480,7 +82210,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 14.11 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_n6v9r7rgn</styleUrl>
+        <styleUrl>#_14kpvj7fm</styleUrl>
         <gx:Track>
           <when>2016-01-02T03:20:34</when>
           <when>2016-01-02T03:35:32</when>
@@ -82608,7 +82338,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_n6v9r7rgn">
+    <Style id="_14kpvj7fm">
       <IconStyle>
         <scale>1.05644</scale>
         <Icon>
@@ -82623,15 +82353,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: HONOLULU&lt;/h1&gt;&#xD;
@@ -82640,7 +82365,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 12.59 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_iyqszyrho</styleUrl>
+        <styleUrl>#_6rkzzmet8</styleUrl>
         <gx:Track>
           <when>2016-01-02T05:45:32</when>
           <gx:coord>-157.86716 21.31312 0</gx:coord>
@@ -82648,7 +82373,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_iyqszyrho">
+    <Style id="_6rkzzmet8">
       <IconStyle>
         <scale>1.05036</scale>
         <Icon>
@@ -82663,15 +82388,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: SHIBUI&lt;/h1&gt;&#xD;
@@ -82680,7 +82400,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 13.56 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_i2lzqrn2g</styleUrl>
+        <styleUrl>#_kyeb24y25</styleUrl>
         <gx:Track>
           <when>2016-01-01T17:01:11</when>
           <when>2016-01-01T17:05:10</when>
@@ -82703,7 +82423,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_i2lzqrn2g">
+    <Style id="_kyeb24y25">
       <IconStyle>
         <scale>1.05424</scale>
         <Icon>
@@ -82718,15 +82438,10 @@
         <longitude>-157</longitude>
         <latitude>21</latitude>
         <altitude>0</altitude>
-        <range>4060590.093687469</range>
+        <range>4060590</range>
         <heading>-3</heading>
         <tilt>0</tilt>
       </LookAt>
-      <Style>
-        <ListStyle>
-          <listItemType>checkHideChildren</listItemType>
-        </ListStyle>
-      </Style>
       <Placemark>
         <description>&#xD;
 &lt;h1&gt;Name: SURF RIDE&lt;/h1&gt;&#xD;
@@ -82735,7 +82450,7 @@
 &lt;br&gt;&#xD;
 &lt;h1&gt;Length: 12.19 M&lt;/h1&gt;&#xD;
 </description>
-        <styleUrl>#_29orf86d0</styleUrl>
+        <styleUrl>#_5nea7ymck</styleUrl>
         <gx:Track>
           <when>2016-01-02T04:05:20</when>
           <when>2016-01-02T04:08:20</when>
@@ -82779,7 +82494,7 @@
         </gx:Track>
       </Placemark>
     </Folder>
-    <Style id="_29orf86d0">
+    <Style id="_5nea7ymck">
       <IconStyle>
         <scale>1.04876</scale>
         <Icon>
